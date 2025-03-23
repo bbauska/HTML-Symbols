@@ -49,7 +49,7 @@ Mathematics Symbols
 </table>
 <!-- DivTable.com -->
 
-Plus Sign	&plus;	&#43;	+
+Plus Sign	`&plus;`	`&#43;`	`+`
 Minus Sign	&minus;	&#8722;	−
 Multiplication Sign	&times;	&#215;	×
 Division Sign	&divide;	&#247;	÷
