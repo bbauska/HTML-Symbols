@@ -38,7 +38,7 @@ HTML code for that entity.
 </tr>
 </thead>
 <tbody>
-Mathematics Symbols
+<b>Mathematics Symbols</b>
 <tr>
 <td>Plus Sign</td>
 <td>`&plus;`</td>
@@ -50,9 +50,13 @@ Mathematics Symbols
 <!-- DivTable.com -->
 
 Plus Sign	`&plus;`	`&#43;`	`+`
+
 Minus Sign	`&minus;`	`&#8722;`	`−`
+
 Multiplication Sign	`&times;`	`&#215;`	`×`
+
 Division Sign	&divide;	&#247;	÷
+
 Equals Sign	&equals;	&#61;	=
 Not Equal Sign	&ne;	&#8800;	≠
 Plus or Minus Sign	&plusmn;	&#177;	±
