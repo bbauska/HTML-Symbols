@@ -27,43 +27,19 @@ On some occasions, the browser might not recognize the entity names, so it’s b
 HTML code for that entity.
 
 ## HTML Icon and Entity Code List
-<!-- Scroll to the right to see all the values in the table. -->
-<table style="width: 75%;" border="1" cellpadding="1">
-<thead>
-<tr>
-<th>Name</th>
-<th>Entity</th>
-<th>HTML Code</th>
-<th>Resulting Symbol</th>
-</tr>
-</thead>
-<tbody>
 <b>Mathematics Symbols</b>
-<tr>
-<td>Plus Sign</td>
-<td>`&plus;`</td>
-<td>`&#43;`</td>
-<td>`+`</td>
-</tr>
-</tbody>
-</table>
-<!-- DivTable.com -->
-
-Plus Sign	`&plus;`	`&#43;`	`+`
-
-Minus Sign	`&minus;`	`&#8722;`	`−`
-
-Multiplication Sign	`&times;`	`&#215;`	`×`
-
-Division Sign	&divide;	&#247;	÷
-
-Equals Sign	&equals;	&#61;	=
-Not Equal Sign	&ne;	&#8800;	≠
-Plus or Minus Sign	&plusmn;	&#177;	±
-Minus or Plus Sign	&mnplus;	&#8723;	∓
-Not Sign	&not;	&#172;	¬
-Greater Than Sign	&gt;	&#62;	>
-Less Than Sign	&lt;	&#60;	<
+<b>Name        		Entity		HTML Code	Resulting Symbol</b><br>
+Plus Sign      		`&plus;` 	`&#43;`     `+`<br>
+Minus Sign			`&minus;`	`&#8722;`	`−`<br>
+Multiplication Sign	`&times;`	`&#215;`	`×`<br>
+Division Sign	&divide;	&#247;	÷<br>
+Equals Sign	&equals;	&#61;	=<br>
+Not Equal Sign	&ne;	&#8800;	≠<br>
+Plus or Minus Sign	&plusmn;	&#177;	±<br>
+Minus or Plus Sign	&mnplus;	&#8723;	∓<br>
+Not Sign	&not;	&#172;	¬<br>
+Greater Than Sign	&gt;	&#62;	><br>
+Less Than Sign	&lt;	&#60;	<<br>
 Greater Than or Equal to	&ge;	&#8805;	≥
 Less Than or Equal to	&le;	&#8804;	≤
 Greater Than Over Equal to	&gE;	&#8807;	≧
