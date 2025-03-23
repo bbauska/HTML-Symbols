@@ -41,17 +41,17 @@ HTML code for that entity.
 Mathematics Symbols
 <tr>
 <td>Plus Sign</td>
-<td>&plus;</td>
-<td>&#43;</td>
-<td>+</td>
+<td>`&plus;`</td>
+<td>`&#43;`</td>
+<td>`+`</td>
 </tr>
 </tbody>
 </table>
 <!-- DivTable.com -->
 
 Plus Sign	`&plus;`	`&#43;`	`+`
-Minus Sign	&minus;	&#8722;	−
-Multiplication Sign	&times;	&#215;	×
+Minus Sign	`&minus;`	`&#8722;`	`−`
+Multiplication Sign	`&times;`	`&#215;`	`×`
 Division Sign	&divide;	&#247;	÷
 Equals Sign	&equals;	&#61;	=
 Not Equal Sign	&ne;	&#8800;	≠
