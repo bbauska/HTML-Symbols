@@ -1,4 +1,4 @@
-#HTML
+# HTML
 HTML Symbols – HTML Icon and Entity Code List
 There are some characters that are symbols which you don’t get access to on keyboards. In HTML, 
 these characters are called entities and are reserved characters.
@@ -12,7 +12,7 @@ as <, it'll be treated as an opening tag.
 To type these characters, you have to use HTML entities. That’s why I have compiled a whole 
 list of HTML entities approved by the W3C for you here.
 
-How to Use HTML Entities
+## How to Use HTML Entities
 To use the entities provided in this article, copy the entity name or HTML code of the entities 
 and paste them directly into your HTML file.
 
@@ -26,10 +26,29 @@ so you get > to create that symbol.
 On some occasions, the browser might not recognize the entity names, so it’s better to go with the 
 HTML code for that entity.
 
-HTML Icon and Entity Code List
-Scroll to the right to see all the values in the table.
+## HTML Icon and Entity Code List
+<!-- Scroll to the right to see all the values in the table. -->
+<table style="width: 75%;" border="1" cellpadding="1">
+<thead>
+<tr>
+<th>Name</th>
+<th>Entity</th>
+<th>HTML Code</th>
+<th>Resulting Symbol</th>
+</tr>
+</thead>
+<tbody>
+Mathematics Symbols
+<tr>
+<td>Plus Sign</td>
+<td>&plus;</td>
+<td>&#43;</td>
+<td>+</td>
+</tr>
+</tbody>
+</table>
+<!-- DivTable.com -->
 
-Name	Entity	HTML Code	Resulting Symbol Mathematics Symbols
 Plus Sign	&plus;	&#43;	+
 Minus Sign	&minus;	&#8722;	−
 Multiplication Sign	&times;	&#215;	×
@@ -611,4 +630,3 @@ Small Letter z with Dot	&zdot;	&#380;	ż
 Letter Z with Caron	&Zcaron;	&#381;	Ž
 Small Letter z with Caron	&zcaron;	&#382;	ž
 Small Letter z with Caron	&zcaron;	&#382;	ž
-
