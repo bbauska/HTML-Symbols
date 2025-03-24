@@ -28,192 +28,192 @@ HTML code for that entity.
 
 ## HTML Icon and Entity Code List
 
-<b>Mathematics Symbols</b><br>
+<b>Mathematics Symbols</b> |
 
 | <b>Name</b> |	<b>Entity</b> |<b>HTML Code</b> | <b>Resulting Symbol</b> |
 |-------------|---------------|-----------------|-------------------------|
 | Plus Sign | `&plus;` | `&#43;` | `+` |
 | Minus Sign | `&minus;` | `&#8722;` | `−` |
-| Multiplication Sign	`&times;`	`&#215;` &nbsp;&nbsp;&nbsp; `×`<br>
-| Division Sign	`&divide;`	`&#247;`&nbsp;&nbsp;&nbsp;`÷`<br>
-Equals Sign	&nbsp;&nbsp;&nbsp; `&equals;` &nbsp;&nbsp;&nbsp; `&#61;` &nbsp;&nbsp;&nbsp; `=`<br>
-Not Equal Sign &nbsp;&nbsp;&nbsp; `&ne;` &nbsp;&nbsp;&nbsp; `&#8800;` &nbsp;&nbsp;&nbsp; `≠`<br>
-Plus or Minus Sign	`&plusmn;`	`&#177;`	`±`<br>
-Minus or Plus Sign	`&mnplus;`	`&#8723;`	`∓`<br>
-Not Sign	`&not;`	`&#172;`	`¬`<br>
-Greater Than Sign	`&gt;`	`&#62;`	`>`<br>
-Less Than Sign	`&lt;`	`&#60;`	`<`<br>
-Greater Than or Equal to	`&ge;`	`&#8805;`	`≥`<br>
-Less Than or Equal to	`&le;`	`&#8804;`	`≤`<br>
-Greater Than Over Equal to	`&gE;`	`&#8807;`	`≧`<br>
-Less Than Over Equal to	`&lE;`	`&#8806;`	`≦`<br>
-Greater Than But not Equal to	`&gnE;`	`&#8809;`	`≩`<br>
-Less Than But not Equal to	`&lnE;`	`&#8808;`	`≨`<br>
-Much Greater Than	`&Gt;`	`&#8811;`	`≫`<br>
-Much Less Than	`&Lt;`	`&#8810;`	`≪`<br>
-Not Greater Than	`&ngt;`	`&#8815;`	`≯`<br>
-Not Less Than	`&nlt;`	`&#8814;`	`≮`<br>
-Neither Greater Than nor Equal to	`&nge;`	`&#8817;`	`≱`<br>
-Neither Less Than nor Equal to	`&nle;`	`&#8816;`	`≰`<br>
-Greater Than or Equivalent to	`&gsim;`	`&#8819;`	`≳`<br>
-Greater Than or Less Than	`&gl;`	`&#8823;`	`≷`<br>
-Less Than or Greater Than	`&lg;`	`&#8822;`	`≶`<br>
-Less than or Greater than	`&gsim;	`&#8819;`	`≳`<br>
-Neither Less than nor Greater than	`&ntlg;`	`&#8824;`	`≸`<br>
-Neither Greater than nor Less than	`&ntgl;`	`&#8825;`	`≹`<br>
-Degree Sign	`&deg;`	`&#176;`	`°`<br>
-Superscript One Sign	`&sup1;`	`&#185;`	`¹`<br>
-Superscript Two Sign	`&sup2;`	`&#178;`	`²`<br>
-Superscript Three Sign	`&sup3;`	`&#179;`	`³`<br>
-Percentage Sign	`&percnt;`	`&#37;`	`%`<br>
-Small Letter F With Hook	`&fnof;`	`&#402;`	`ƒ`<br>
-There Exists	`&exist;`	`&#8707;`	`∃`<br>
-There Does Not Exist	`&nexist;`	`&#8708;`	`∄`<br>
-Empty Set	`&empty;`	`&#8709;`	`∅`<br>
-Nabla	`&nabla;`	`&#8711;`	`∇`<br>
-Element of	`&isin;`	`&#8712;`	`∈`<br>
-Not an Element of	`&notin;`	`&#8713;`	`∉`<br>
-Summation	`&sum;`	`#8721`	`∑`<br>
-Contains as Member	`&ni;`	`&#8715;`	`∋`<br>
-Does not contain as Member	`&notni;`	`&#8716;`	`∌`<br>
-Dot Plus	`&plusdo;`	`&#8724;`	`∔`<br>
-Asterik	`&lowast;`	`&#8727;`	`∗`<br>
-Setminus	`&setminus;`	`&#8726;`	`∖`<br>
-Square Root	`&radic;`	`&#8730;`	`√`<br>
-Infinity	`&infin;`	`&#8734;`	`∞`<br>
-Angle	`&ang;`	`&#8736;`	`∠`<br>
-Measured Angle	`&angmsd;`	`&#8737;`	`∡`<br>
-Spherical Angle	`&angsph;`	`&#8738;`	`∢`<br>
-Right Angle	`&angrt;`	`&#8735;`	`∟`<br>
-Divides	&mid;	`&#8739;`	`∣`<br>
-Does not Divide	`&nmid;`	`&#8740;`	`∤`<br>
-Parallel to	`&parallel;`	`&#8741;`	`∥`<br>
-Not Parallel to	`&npar;`	`&#8742;`	`∦`<br>
-Logical And	&and;	&#8743;	∧<br>
-Logical Or	&or;	&#8744;	∨<br>
-Intersection	&cap;	&#8745;	∩<br>
-Union	&cup;	&#8746;	∩<br>
-Integral	&int;	&#8746;	∫<br>
-Double Integral	&Int;	&#8748;	∬<br>
-Triple Integral	&iiint;	&#8749;	∭<br>
-Ratio	&ratio;	&#8758;	∶<br>
-Therefore	&there4;	&#8756;	∴<br>
-Because	&because;	&#8757;	∵<br>
-Colon	&Colon;	&#8759;	∷<br>
-Dot Minus	&minusd;	&#8760;	∸<br>
-Geometric Proportion	&mDDot;	&#8762;	∺<br>
-Tilde	&sim	&#8764;	∼<br>
-Reversed Tilde	&bsim	&#8765;	∽<br>
-Not Tilde	&nsim	&#8765;	≁<br>
-Minus Tilde	&esim	&#8770;	≁<br>
-Asymptotically Equal to	&sime	&#8771;	≁<br>
-Asymptotically Not Equal to	&nsime	&#8772;	≄<br>
-Approximately Equal to	&cong;	&#8773;	≅<br>
-Approximately But Not Actually Equal to	&simne;	&#8774;	≅<br>
-Neither Approximately Nor Actually Equal to	&ncong;	&#8775;	≇<br>
-All Equal to	&bcong;	&#8780;	≌<br>
-Almost Equal to	&asymp;	&#8776;	≈<br>
-Equivalent to	&asympeq;	&#8781;	≍<br>
-Geometrically Equivalent to	&bump	&#8782;	≎<br>
-Geometrically Equal to	&eDot;	&#8782;	≑<br>
-Identical to	&equiv;	&#8801;	≡<br>
-Not Identical to	&nequiv;	&#8802;	≢<br>
-Precedes	&pr	&#8826;	≺<br>
-Succeeds	&sc	&#8827;	≻<br>
-Does not Precede	&npr	&#8832;	⊀<br>
-Does not Succeed	&nsc	&#8833;	⊁<br>
-Precedes or Equal to	&prcue;	&#8828;	≼<br>
-Succeeds or Equal to	&sccue;	&#8829;	≽<br>
-Precedes or Equivalent to	&prsim;	&#8830;	≾<br>
-Succeeds or Equivalent to	&scsim;	&#8831;	≿<br>
-Subset of	&sub;	&#8834;	⊂<br>
-Superset of	&sup;	&#8835;	⊃<br>
-Not a Subset of	&nsub;	&#8836;	⊄<br>
-Not a Superset of	&nsup;	&#8837;	⊅<br>
-Subset of or Equal to	&sube;	&#8838;	⊆<br>
-Superset of or Equal to	&supe;	&#8839;	⊇<br>
-Multiset Multiplication	&cupdot;	&#8845;	⊍<br>
-Multiset Union	&uplus;	&#8846;	⊎<br>
-Circled Plus	&oplus;	&#8853;	⊕<br>
-Circled Minus	&ominus;	&#8854;	⊖<br>
-Circled Times	&otimes;	&#8855;	⊗<br>
-Circled Division	&osol;	&#8856;	⊘<br>
-Circled Dot	&odot;	&#8857;	⊙<br>
-Circled Ring	&ocir;	&#8858;	⊚<br>
-Circled Asterisk	&oast;	&#8859;	⊛<br>
-Circled Dash	&odash;	&#8861;	⊝<br>
-Squared Plus	&plusb;	&#8862;	⊞<br>
-Squared Minus	&minusb;	&#8863;	⊟<br>
-Squared Times	&timesb;	&#8864;	⊠<br>
-Squared Dot	&sdotb;	&#8865;	⊡<br>
-Up Tack	&perp;	&#8869;	⊥<br>
-Down Tack	&top;	&#8868;	⊤<br>
-Left Tack	&dashv;	&#8867;	⊣<br>
-Right Tack	&vdash;	&#8866;	⊢<br>
-Models	&models;	&#8871;	⊧<br>
-Normal Subgroup of	&vltri;	&#8882;	⊲<br>
-Contains as Normal Subgroup	&vrtri;	&#8883;	⊳<br>
-Normal Subgroup of or Equal to	&ltrie;	&#8884;	⊴<br>
-Contains as Normal Subgroup or Equal to	&rtrie;	&#8885;	⊵<br>
-Original of	&origof;	&#8886;	⊶<br>
-Image of	&imof;	&#8887;	⊷<br>
-Dot Operator	&sdot;	&#8901;	⋅<br>
-Star Operator	&Star;	&#8902;	⋆<br>
-Division Operator	&divonx;	&#8903;	⋇<br>
-Bowtie	&bowtie;	&#8904;	⋈<br>
-Left Normal Factor Semidirect Product	&ltimes;;	&#8905;	⋉<br>
-Right Normal Factor Semidirect Product	&rtimes;;	&#8906;	⋊<br>
-Double Subset	&Sub;	&#8912;	⋐<br>
-Double Superset	&Sup;	&#8913;	⋑<br>
-Double Intersection	&Cap;	&#8914;	⋒<br>
-Double Union	&Cup;	&#8915;	⋓<br>
-Equal and Parallel to	&epar;	&#8917;	⋕<br>
-Less than with Dot	&ltdot;	&#8918;	⋖<br>
-Greater than with Dot	&gtdot;	&#8919;	⋗<br>
-Very Much Less Than	&Ll;	&#8920;	⋘<br>
-Very Much Greater Than	&Gg;	&#8921;	⋙<br>
-Not Normal Subgroup of	&nltri;	&#8938;	⋪<br>
-Does not Contain as Normal Subgroup	&nrtri;	&#8938;	⋫<br>
-Not Normal Subgroup of or Equal to	&nltrie;	&#8940;	⋬<br>
-Does not Contain as Normal Subgroup or Equal	&nrtrie;	&#8941;	⋭<br>
-Vertical Ellipsis	&vellip;	&#8942;	⋮<br>
-Horizontal Ellipsis	&ctdot;	&#8943;	⋮<br>
-Up Right Diagonal Ellipsis	&utdot;	&#8944;	⋰<br>
-Down Right Diagonal Ellipsis	&dtdot;	&#8945;	⋱<br>
-Left Ceiling	&lceil;	&#89468;	⌈<br>
-Right Ceiling	&rceil;	&#89469;	⌉<br>
-Right Floor	&rfloor;	&#89470;	⌋<br>
-Left Floor	&lfloor;	&#89471;	⌊<br>
-Left Point Angle Bracket	&lang;	&#9001;	⟨<br>
-Right Point Angle Bracket	&rang;	&#9002;	⟩<br>
-Element of With Stroke	&disin;	&#8946;	⋲<br>
-Element of With Vertical Bar	&isinsv;	&#8947;	⋳<br>
-Small Element of With Vertical Bar	&isins;	&#8948;	⋴<br>
-Element of With Dot Above	&isindot;	&#8949;	⋵<br>
-Element of With Overbar	&notinvc;	&#8950;	⋶<br>
-Small Element of With Overbar	&notinvb;	&#8951;	⋷<br>
+| Multiplication Sign |	`&times;` |	`&#215;` | `×` |
+| Division Sign |	`&divide;` |	`&#247;`  | `÷` |
+| Equals Sign |	`&equals;` | `&#61;`  | `=` |
+| Not Equal Sign | `&ne;` | `&#8800;`  | `≠` |
+| Plus or Minus Sign |	`&plusmn;`	`&#177;`	`±` |
+| Minus or Plus Sign |	`&mnplus;`	`&#8723;`	`∓` |
+| Not Sign |	`&not;`	`&#172;` | `¬` |
+| Greater Than Sign |	`&gt;` | `&#62;`	 | `>` |
+| Less Than Sign | `&lt;` | `&#60;` |	`<` |
+| Greater Than or Equal to |	`&ge;`	`&#8805;`	`≥` |
+| Less Than or Equal to |	`&le;` |	`&#8804;` |	`≤` |
+| Greater Than Over Equal to |	`&gE;`	`&#8807;` |	`≧` |
+| Less Than Over Equal to |	`&lE;` |	`&#8806;` |	`≦` |
+| Greater Than But not Equal to |	`&gnE;` |	`&#8809;` |	`≩` |
+| Less Than But not Equal to | `&lnE;` |	`&#8808;` |	`≨` |
+| Much Greater Than  | `&Gt;` | `&#8811;` |	`≫` |
+| Much Less Than  | `&Lt;`  | `&#8810;` |	`≪` |
+| Not Greater Than | `&ngt;` | `&#8815;` | `≯` |
+| Not Less Than | `&nlt;` | `&#8814;` | `≮` |
+| Neither Greater Than nor Equal to |	`&nge;` |	`&#8817;` |	`≱` |
+| Neither Less Than nor Equal to |	`&nle;` |	`&#8816;` |	`≰` |
+| Greater Than or Equivalent to |	`&gsim;` | `&#8819;`  | `≳` |
+| Greater Than or Less Than	 |`&gl;` |	`&#8823;` |	`≷` |
+| Less Than or Greater Than	 |`&lg;` |	`&#8822;` |	`≶` |
+| Less than or Greater than	 |`&gsim;`	`&#8819;` |	`≳` |
+| Neither Less than nor Greater than	 |`&ntlg;` | `&#8824;` |	`≸` |
+| Neither Greater than nor Less than | `&ntgl;` `&#8825;` |	`≹` |
+| Degree Sign |	`&deg;` |	`&#176;` |	`°` |
+| Superscript One Sign |	`&sup1;` |	`&#185;` |	`¹` |
+| Superscript Two Sign | `&sup2;` |	`&#178;` |	`²` |
+| Superscript Three Sign	 |`&sup3;` | `&#179;`  | `³` |
+| Percentage Sign |	`&percnt;` |	`&#37;` |	`%` |
+| Small Letter F With Hook |	`&fnof;` |	`&#402;` |	`ƒ` |
+| There Exists |	`&exist;` |	`&#8707;` |	`∃` |
+| There Does Not Exist |	`&nexist;` |	`&#8708;` |	`∄` |
+| Empty Set |	`&empty;` |	`&#8709;` |	`∅` |
+| Nabla |	`&nabla;` |	`&#8711;` |	`∇` |
+| Element of |	`&isin;` |	`&#8712;` |	`∈` |
+| Not an Element of |	`&notin;` |	`&#8713;` |	`∉` |
+| Summation	`&sum;`	`#8721`	`∑` |
+| Contains as Member |	`&ni;` |	`&#8715;` |	`∋` |
+| Does not contain as Member |	`&notni;` |	`&#8716;` |	`∌` |
+| Dot Plus |	`&plusdo;` |	`&#8724;` |	`∔` |
+| Asterik |	`&lowast;` |	`&#8727;` |	`∗` |
+| Setminus |	`&setminus;` |	`&#8726;` |	`∖` |
+| Square Root |	`&radic;` |	`&#8730;` |	`√` |
+| Infinity |	`&infin;` |	`&#8734;` |	`∞` |
+| Angle |	`&ang;` |	`&#8736;` |	`∠` |
+| Measured Angle| 	`&angmsd;`| `&#8737;`| `∡` |
+| Spherical Angle | `&angsph;`| `&#8738;`| `∢` |
+| Right Angle| `&angrt;`| `&#8735;`| `∟` |
+| Divides| &mid;| `&#8739;`| `∣` |
+| Does not Divide| `&nmid;`| `&#8740;`| `∤` |
+| Parallel to| 	`&parallel;` | `&#8741;` | `∥` |
+| Not Parallel to| 	`&npar;` | `&#8742;`| `∦` |
+| Logical And | `&and;`	| `&#8743;` | `∧` |
+| Logical Or | `&or;` | `&#8744;` | `∨` |
+| Intersection	`&cap;` | `&#8745;`	| `∩` |
+| Union	`&cup;`	`&#8746;	`∩` |
+| Integral |	`&int;` |	`&#8746;` |	`∫` |
+| Double Integral |	`&Int;` |	`&#8748;` |	`∬` |
+| Triple Integral |	`&iiint;`	`&#8749;` |	`∭` |
+| Ratio |	`&ratio;` |	`&#8758;` |	`∶` |
+| Therefore |	`&there4;` |	`&#8756;` |	`∴` |
+| Because |	`&because;` |	`&#8757;` | `∵` |
+| Colon | `&Colon;` |	`&#8759;` |	`∷` |
+| Dot Minus |	`&minusd;` | `&#8760;` |	`∸` |
+| Geometric Proportion |	`&mDDot;` |	`&#8762;` |	`∺` |
+| Tilde |	`&sim` |	`&#8764;` |	`∼` |
+| Reversed Tilde |	`&bsim`	`&#8765;` |	`∽` |
+| Not Tilde |	`&nsim` |	`&#8765;` |	`≁` |
+| Minus Tilde |	`&esim` |	`&#8770;` |	`≁` |
+| Asymptotically Equal to |	`&sime` |	`&#8771;` |	`≁` |
+| Asymptotically Not Equal to |	`&nsime` | `&#8772;` | `≄` |
+| Approximately Equal to |	`&cong;`  |	`&#8773;`  |	`≅` |
+| Approximately But Not Actually Equal to |	`&simne;` | `&#8774;` |	`≅` |
+| Neither Approximately Nor Actually Equal to |	`&ncong;` |	`&#8775;` |	`≇` |
+| All Equal to |	`&bcong;` |	`&#8780;` |	`≌` |
+| Almost Equal to |	`&asymp;` |	`&#8776;` |	`≈` |
+| Equivalent to |	`&asympeq;` |	`&#8781;` |	`≍` |
+| Geometrically Equivalent to |	`&bump` |	`&#8782;` |	`≎` |
+| Geometrically Equal to |	`&eDot;` |	`&#8782;` |	`≑` |
+| Identical to	`&equiv;`	`&#8801;`	`≡` |
+| Not Identical to	`&nequiv;`	`&#8802;`	`≢` |
+| Precedes	`&pr	`&#8826;`	`≺` |
+| Succeeds	`&sc`	`&#8827;`	`≻` |
+| Does not Precede	`&npr`	`&#8832;` | `⊀` |
+| Does not Succeed	`&nsc`	`&#8833;` | `⊁` |
+| Precedes or Equal to	&prcue;	`&#8828;`	| `≼` |
+| Succeeds or Equal to	&sccue;	`&#8829;` | `≽` |
+| Precedes or Equivalent to	&prsim; | `&#8830;` | `≾` |
+| Succeeds or Equivalent to | `&scsim;`	`&#8831;`	`≿` |
+Subset of	&sub;	&#8834;	⊂ |
+Superset of	&sup;	&#8835;	⊃ |
+Not a Subset of	&nsub;	&#8836;	⊄ |
+Not a Superset of	&nsup;	&#8837;	⊅ |
+Subset of or Equal to	&sube;	&#8838;	⊆ |
+Superset of or Equal to	&supe;	&#8839;	⊇ |
+Multiset Multiplication	&cupdot;	&#8845;	⊍ |
+Multiset Union	&uplus;	&#8846;	⊎ |
+Circled Plus	&oplus;	&#8853;	⊕ |
+Circled Minus	&ominus;	&#8854;	⊖ |
+Circled Times	&otimes;	&#8855;	⊗ |
+Circled Division	&osol;	&#8856;	⊘ |
+Circled Dot	&odot;	&#8857;	⊙ |
+Circled Ring	&ocir;	&#8858;	⊚ |
+Circled Asterisk	&oast;	&#8859;	⊛ |
+Circled Dash	&odash;	&#8861;	⊝ |
+Squared Plus	&plusb;	&#8862;	⊞ |
+Squared Minus	&minusb;	&#8863;	⊟ |
+Squared Times	&timesb;	&#8864;	⊠ |
+Squared Dot	&sdotb;	&#8865;	⊡ |
+Up Tack	&perp;	&#8869;	⊥ |
+Down Tack	&top;	&#8868;	⊤ |
+Left Tack	&dashv;	&#8867;	⊣ |
+Right Tack	&vdash;	&#8866;	⊢ |
+Models	&models;	&#8871;	⊧ |
+Normal Subgroup of	&vltri;	&#8882;	⊲ |
+Contains as Normal Subgroup	&vrtri;	&#8883;	⊳ |
+Normal Subgroup of or Equal to	&ltrie;	&#8884;	⊴ |
+Contains as Normal Subgroup or Equal to	&rtrie;	&#8885;	⊵ |
+Original of	&origof;	&#8886;	⊶ |
+Image of	&imof;	&#8887;	⊷ |
+Dot Operator	&sdot;	&#8901;	⋅ |
+Star Operator	&Star;	&#8902;	⋆ |
+Division Operator	&divonx;	&#8903;	⋇ |
+Bowtie	&bowtie;	&#8904;	⋈ |
+Left Normal Factor Semidirect Product	&ltimes;;	&#8905;	⋉ |
+Right Normal Factor Semidirect Product	&rtimes;;	&#8906;	⋊ |
+Double Subset	&Sub;	&#8912;	⋐ |
+Double Superset	&Sup;	&#8913;	⋑ |
+Double Intersection	&Cap;	&#8914;	⋒ |
+Double Union	&Cup;	&#8915;	⋓ |
+Equal and Parallel to	&epar;	&#8917;	⋕ |
+Less than with Dot	&ltdot;	&#8918;	⋖ |
+Greater than with Dot	&gtdot;	&#8919;	⋗ |
+Very Much Less Than	&Ll;	&#8920;	⋘ |
+Very Much Greater Than	&Gg;	&#8921;	⋙ |
+Not Normal Subgroup of	&nltri;	&#8938;	⋪ |
+Does not Contain as Normal Subgroup	&nrtri;	&#8938;	⋫ |
+Not Normal Subgroup of or Equal to	&nltrie;	&#8940;	⋬ |
+Does not Contain as Normal Subgroup or Equal	&nrtrie;	&#8941;	⋭ |
+Vertical Ellipsis	&vellip;	&#8942;	⋮ |
+Horizontal Ellipsis	&ctdot;	&#8943;	⋮ |
+Up Right Diagonal Ellipsis	&utdot;	&#8944;	⋰ |
+Down Right Diagonal Ellipsis	&dtdot;	&#8945;	⋱ |
+Left Ceiling	&lceil;	&#89468;	⌈ |
+Right Ceiling	&rceil;	&#89469;	⌉ |
+Right Floor	&rfloor;	&#89470;	⌋ |
+Left Floor	&lfloor;	&#89471;	⌊ |
+Left Point Angle Bracket	&lang;	&#9001;	⟨ |
+Right Point Angle Bracket	&rang;	&#9002;	⟩ |
+Element of With Stroke	&disin;	&#8946;	⋲ |
+Element of With Vertical Bar	&isinsv;	&#8947;	⋳ |
+Small Element of With Vertical Bar	&isins;	&#8948;	⋴ |
+Element of With Dot Above	&isindot;	&#8949;	⋵ |
+Element of With Overbar	&notinvc;	&#8950;	⋶ |
+Small Element of With Overbar	&notinvb;	&#8951;	⋷ |
 
 <b>Fractions</b>
-One Quarter	`&frac14;`	`&#188;`	`¼`<br>
-One Half	`&frac12;`	`&#189;`	`½`<br>
-Three Quarters	`&frac34;`	`&#190;`	`¾`<br>
-One Third	`&frac13;`	`&#8531;`	`⅓`<br>
-Two Thirds	`&frac23;`	`&#8532;`	`⅔`<br>
-One Fifth	`&frac15;`	`&#8533;`	`⅕`<br>
-Two Fifths	`&frac25;`	`&#8534;`	`⅖`<br>
-Three Fifths	`&frac35;`	`&#8535;`	`⅗`<br>
-Four Fifths	`&frac45;`	`&#8536;`	`⅘`<br>
-One Sixth	`&frac16;`	`&#8537;`	`⅙`<br>
-Five sixths	`&frac56;`	`&#8538;`	`⅚`<br>
-One Eighth	`&frac18;`	`&#8539;`	`⅛`<br>
-Three Eighths	`&frac38;`	`&#8540;`	`⅜`<br>
-Five Eighths	`&frac58;`	`&#8541;`	`⅝`<br>
-Seven Eighths	`&frac78;`	`&#8542;`	`⅞`<br>
+One Quarter	`&frac14;`	`&#188;`	`¼` |
+One Half	`&frac12;`	`&#189;`	`½` |
+Three Quarters	`&frac34;`	`&#190;`	`¾` |
+One Third	`&frac13;`	`&#8531;`	`⅓` |
+Two Thirds	`&frac23;`	`&#8532;`	`⅔` |
+One Fifth	`&frac15;`	`&#8533;`	`⅕` |
+Two Fifths	`&frac25;`	`&#8534;`	`⅖` |
+Three Fifths	`&frac35;`	`&#8535;`	`⅗` |
+Four Fifths	`&frac45;`	`&#8536;`	`⅘` |
+One Sixth	`&frac16;`	`&#8537;`	`⅙` |
+Five sixths	`&frac56;`	`&#8538;`	`⅚` |
+One Eighth	`&frac18;`	`&#8539;`	`⅛` |
+Three Eighths	`&frac38;`	`&#8540;`	`⅜` |
+Five Eighths	`&frac58;`	`&#8541;`	`⅝` |
+Seven Eighths	`&frac78;`	`&#8542;`	`⅞` |
 
 <b>Currency Symbols</b>
-Dollar Sign	`&dollar;`	`&#36;`	`$`<br>
-Cent Sign	`&cent;`	`&#162;`	`¢`<br>
-Euro Sign	`&euro;`	`&#8364;`	`€`<br>
+Dollar Sign	`&dollar;`	`&#36;`	`$` |
+Cent Sign	`&cent;`	`&#162;`	`¢` |
+Euro Sign	`&euro;`	`&#8364;`	`€` |
 Pound Sign	`&pound;`	`&#163;`	`€`
 Yen Sign	`&yen;`	`&#165;`	`¥`
 Naira Sign		`&#8358;`	`₦`
