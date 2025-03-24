@@ -32,7 +32,7 @@ HTML code for that entity.
 Plus Sign      		`&plus;` 	`&#43;`     `+`<br>
 Minus Sign			`&minus;`	`&#8722;`	`−`<br>
 Multiplication Sign	`&times;`	`&#215;`	`×`<br>
-Division Sign	`&divide;`	`&#247;`	`÷`<br>
+Division Sign	`&divide;`	`&#247;`&nbsp;&nbsp;&nbsp;`÷`<br>
 Equals Sign	`&equals;`	`&#61;`	`=`<br>
 Not Equal Sign	&ne;	`&#8800;`	`≠`<br>
 Plus or Minus Sign	`&plusmn;`	`&#177;`	`±`<br>
