@@ -129,7 +129,7 @@ HTML code for that entity.
 | Subset of |	`&sub;` |	`&#8834;` |	`⊂` |
 | Superset of |	`&sup;` |	`&#8835;` |	`⊃` |
 | Not a Subset of |	`&nsub;` |	`&#8836;` |	`⊄` |
-| Not a Superset of |	`&nsup;`	`&#8837;` |	`⊅` |
+| Not a Superset of |	`&nsup;` | `&#8837;` |	`⊅` |
 | Subset of or Equal to |	`&sube;` |	`&#8838;` |	`⊆` |
 | Superset of or Equal to |	`&supe;` |	`&#8839;` |	`⊇` |
 | Multiset Multiplication |	`&cupdot;` |	`&#8845;` |	`⊍` |
@@ -147,8 +147,8 @@ HTML code for that entity.
 | Squared Times |	`&timesb;` |	`&#8864;` | `⊠` |
 | Squared Dot |	`&sdotb;` |	`&#8865;` |	`⊡` |
 | Up Tack |	`&perp;` |	`&#8869;` |	`⊥` |
-| Down Tack |	`&top;` |	`&#8868;`	`⊤` |
-| Left Tack |	`&dashv;` |	`&#8867;`	`⊣` |
+| Down Tack |	`&top;` |	`&#8868;` |	`⊤` |
+| Left Tack |	`&dashv;` |	`&#8867;` |	`⊣` |
 | Right Tack |	`&vdash;` |	`&#8866;` |	`⊢` |
 | Models |	`&models;` |	`&#8871;` |	`⊧` |
 | Normal Subgroup of |	`&vltri;` |	`&#8882;` | `⊲` |
@@ -194,6 +194,8 @@ HTML code for that entity.
 | Small Element of With Overbar | `&notinvb;` | `&#8951;` | `⋷` |
 
 <b>Fractions</b>
+| <b>Name</b> |	<b>Entity</b> |<b>HTML Code</b> | <b>Resulting Symbol</b> |
+|-------------|---------------|-----------------|-------------------------|
 One Quarter	`&frac14;`	`&#188;`	`¼` |
 One Half	`&frac12;`	`&#189;`	`½` |
 Three Quarters	`&frac34;`	`&#190;`	`¾` |
@@ -211,6 +213,8 @@ Five Eighths	`&frac58;`	`&#8541;`	`⅝` |
 Seven Eighths	`&frac78;`	`&#8542;`	`⅞` |
 
 <b>Currency Symbols</b>
+| <b>Name</b> |	<b>Entity</b> |<b>HTML Code</b> | <b>Resulting Symbol</b> |
+|-------------|---------------|-----------------|-------------------------|
 Dollar Sign	`&dollar;`	`&#36;`	`$` |
 Cent Sign	`&cent;`	`&#162;`	`¢` |
 Euro Sign	`&euro;`	`&#8364;`	`€` |
@@ -225,6 +229,8 @@ Turkish Lira Sign		`&#8378;`	`₺`
 Bitcoin Sign		`&#8383;`	`₿`
 
 <b>Punctuation and Quotation Marks</b>
+| <b>Name</b> |	<b>Entity</b> |<b>HTML Code</b> | <b>Resulting Symbol</b> |
+|-------------|---------------|-----------------|-------------------------|
 Full Stop	`&period;`	`&#46;`	`.`
 Comma	`&comma;`	`&#44;`	`,`
 Colon	`&colon;`	`&#58;`	`:`
@@ -271,6 +277,8 @@ Single Right Pointing Angle Quotation Mark	`&lsaquo;`	`&#8249;`	`‹`
 Single Left Pointing Angle Quotation Mark &nbsp;&nbsp;&nbsp; `&rsaquo;` &nbsp;&nbsp;&nbsp; `&#8250;` &nbsp;&nbsp;&nbsp; `›`
 
 <b>Arrows</b>
+| <b>Name</b> |	<b>Entity</b> |<b>HTML Code</b> | <b>Resulting Symbol</b> |
+|-------------|---------------|-----------------|-------------------------|
 Long Rightward Arrow	&xrarr;	&#10230;	⟶
 Long Leftward Arrow	&xharr;	&#10231;	⟷
 Clockwise Open Circle Arrow	&orarr;	&#8634;	↺
@@ -386,7 +394,10 @@ Left Fish Tail	&lfisht;	&#10620;	⥼
 Right Fish Tail	&rfisht;	&#10621;	⥽
 Up Fish Tail	&ufisht;	&#10622;	⥾
 Down Fish Tail	&dfisht;	&#10623;	⥿
+
 Greek Letters
+| <b>Name</b> |	<b>Entity</b> |<b>HTML Code</b> | <b>Resulting Symbol</b> |
+|-------------|---------------|-----------------|-------------------------|
 Alpha	&Alpha;	&#913;	Α
 Beta	&Beta;	&#914;	Β
 Gamma	&Gamma;	&#915;	Γ
@@ -437,7 +448,10 @@ Small Letter Phi	&phi;	&#966;	φ
 Small Letter Chi	&chi;	&#967;	χ
 Small Letter Psi	&psi;	&#968;	ψ
 Small Letter Omega	&omega;	&#969;	ω
+
 Latin Letters
+| <b>Name</b> |	<b>Entity</b> |<b>HTML Code</b> | <b>Resulting Symbol</b> |
+|-------------|---------------|-----------------|-------------------------|
 Capital Letter A with Grave	&Agrave;	&#192;	À
 Capital Letter A with Acute	&Aacute;	&#193;	Á
 Capital Letter A with Circumflex	&Acirc;	&#194;	Â
