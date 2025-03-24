@@ -196,107 +196,107 @@ HTML code for that entity.
 <b>Fractions</b>
 | <b>Name</b> |	<b>Entity</b> |<b>HTML Code</b> | <b>Resulting Symbol</b> |
 |-------------|---------------|-----------------|-------------------------|
-One Quarter	`&frac14;`	`&#188;`	`¼` |
-One Half	`&frac12;`	`&#189;`	`½` |
-Three Quarters	`&frac34;`	`&#190;`	`¾` |
-One Third	`&frac13;`	`&#8531;`	`⅓` |
-Two Thirds	`&frac23;`	`&#8532;`	`⅔` |
-One Fifth	`&frac15;`	`&#8533;`	`⅕` |
-Two Fifths	`&frac25;`	`&#8534;`	`⅖` |
-Three Fifths	`&frac35;`	`&#8535;`	`⅗` |
-Four Fifths	`&frac45;`	`&#8536;`	`⅘` |
-One Sixth	`&frac16;`	`&#8537;`	`⅙` |
-Five sixths	`&frac56;`	`&#8538;`	`⅚` |
-One Eighth	`&frac18;`	`&#8539;`	`⅛` |
-Three Eighths	`&frac38;`	`&#8540;`	`⅜` |
-Five Eighths	`&frac58;`	`&#8541;`	`⅝` |
-Seven Eighths	`&frac78;`	`&#8542;`	`⅞` |
+| One Quarter | `&frac14;` | `&#188;` | `¼` |
+| One Half | `&frac12;`	| `&#189;` | `½` |
+| Three Quarters | `&frac34;` | `&#190;` | `¾` |
+| One Third | `&frac13;` | `&#8531;` | `⅓` |
+| Two Thirds | `&frac23;` | `&#8532;` | `⅔` |
+| One Fifth | `&frac15;` | `&#8533;` | `⅕` |
+| Two Fifths | `&frac25;` | `&#8534;` | `⅖` |
+| Three Fifths | `&frac35;` | `&#8535;` | `⅗` |
+| Four Fifths | `&frac45;` | `&#8536;` | `⅘` |
+| One Sixth	| `&frac16;` | `&#8537;` | `⅙` |
+| Five sixths	| `&frac56;` | `&#8538;` | `⅚` |
+| One Eighth	| `&frac18;` | `&#8539;` | `⅛` |
+| Three Eighths	| `&frac38;` | `&#8540;` | `⅜` |
+| Five Eighths	| `&frac58;` | `&#8541;` | `⅝` |
+| Seven Eighths	| `&frac78;` | `&#8542;` | `⅞` |
 
 <b>Currency Symbols</b>
 | <b>Name</b> |	<b>Entity</b> |<b>HTML Code</b> | <b>Resulting Symbol</b> |
 |-------------|---------------|-----------------|-------------------------|
-Dollar Sign	`&dollar;`	`&#36;`	`$` |
-Cent Sign	`&cent;`	`&#162;`	`¢` |
-Euro Sign	`&euro;`	`&#8364;`	`€` |
-Pound Sign	`&pound;`	`&#163;`	`€`
-Yen Sign	`&yen;`	`&#165;`	`¥`
-Naira Sign		`&#8358;`	`₦`
-Rupee Sign		`&#8360;`	`₨`
-Indian Rupee Sign		`&#8377;`	`₹`
-Bengali Rupee Sign		`&#2546;`	`৲`
-Bengali Rupee Sign		`&#2547;`	`৳`
-Turkish Lira Sign		`&#8378;`	`₺`
-Bitcoin Sign		`&#8383;`	`₿`
+| Dollar Sign | `&dollar;` | `&#36;` | `$` |
+| Cent Sign | `&cent;` | `&#162;` | `¢` |
+| Euro Sign | `&euro;` | `&#8364;` | `€` |
+| Pound Sign | `&pound;` | `&#163;`	| `€` |
+| Yen Sign | `&yen;` | `&#165;` | `¥` |
+| Naira Sign | `&#8358;` | `₦` |
+| Rupee Sign | `&#8360;` | `₨` |
+| Indian Rupee Sign	 | `&#8377;` | `₹` |
+| Bengali Rupee Sign | `&#2546;` | `৲` |
+| Bengali Rupee Sign | `&#2547;` | `৳` |
+| Turkish Lira Sign | `&#8378;` | `₺` |
+| Bitcoin Sign | `&#8383;` | `₿` |
 
 <b>Punctuation and Quotation Marks</b>
 | <b>Name</b> |	<b>Entity</b> |<b>HTML Code</b> | <b>Resulting Symbol</b> |
 |-------------|---------------|-----------------|-------------------------|
-Full Stop	`&period;`	`&#46;`	`.`
-Comma	`&comma;`	`&#44;`	`,`
-Colon	`&colon;`	`&#58;`	`:`
-Semicolon	`&semi;`	`&#59;`	`;`
-Reversed Semicolon	`&bsemi;`	`&#8271;`	`⁏`
-Exclamation Mark	`&excl;`	`&#33;`	`!`
-Prime	`&bprime;`	`&#8245;`	`‵`
-Reversed Prime	`&prime;`	`&#8242;`	`′`
-Double Prime	`&Prime;`	`&#8243;`	`″`
-Triple Prime	`&trime;`	`&#8244;`	`‴`
-Quadruple Prime	`&qprime;`	`&#8279;`	`⁗`
-Question Mark	`&quest;`	`&#63;`	`?`
-Number Sign	`&num;`	`&#35;`	`#`
-Ampersand	`&amp;`	`&#38;`	`&`
-Slash	`&sol;`	`&#47;`	`/`
-Backslash	`&bsol;`	`&#92;`	`\`
-Left Parenthesis	`&lpar;`	`&#40;`	`(`
-Right Parenthesis	`&rpar;`	`&#41;`	`)`
-Left Square Bracket	`&lbrack;`	`&#91;`	`[`
-Right Square Bracket	`&rbrack;`	`&#93;`	`]`
-Left Curly Brace	`&lbrace;`	`&#123;`	`{`
-Right Curly Brace	`&rbrace;`	`&#125;`	`}`
-Underscore	`&lowbar;	`&#95;`	`_`
-Backtick	`&grave;`	`&#96;`	```
-Pipe	`&vert;`	`&#124;`	`|`
-Double Pipe	`&Vert;`	`&#8124;`	`‖`
-Hyphen	`&hyphen;`	`&#8208;`	‐
-En Dash	`&ndash;`	`&#8211;`	`–`
-Em Dash	`&mdash;`	`&#8212;`	`—`
-Horizontal Bar	`&horbar;`	`&#8213;`	`―;`
-Bullet Point	`&bull;`	`&#8226;`	`•`
-Two Dot Leader	`&nldr;`	`&#8229;`	`‥`
-Horizontal Elipsis	`&hellip;`	`&#8230;`	`…`
-Hyphen Bullet	`&hybull;`	`&#8259;`	`⁃`
-Apostrophe	`&apos;`	`&#39;`	`'`
-Quotation Mark	`&quot;`	`&#39;`	`'`
-Left Single Quotation Mark	`&lsquo;`	`&#8216;`	`‘`
-Right Single Quotation Mark	`&rsquo;`	`&#8217;`	`’`
-Right Double Quotation Mark	`&rdquo;`	`&#8221;`	`”`
-Left Double Quotation Mark	`&ldquo;`	`&#8222;`	`„`
-Left Pointing Double Angle Quotation Mark	`&laquo;`	`&#171;`	`'`
-Right Pointing Double Angle Quotation Mark	`&raquo;`	`&#187;`	`»`
-Single Right Pointing Angle Quotation Mark	`&lsaquo;`	`&#8249;`	`‹`
-Single Left Pointing Angle Quotation Mark &nbsp;&nbsp;&nbsp; `&rsaquo;` &nbsp;&nbsp;&nbsp; `&#8250;` &nbsp;&nbsp;&nbsp; `›`
+Full Stop |	`&period;` |	`&#46;` |	`.` |
+Comma | `&comma;` |	`&#44;` |	`,` |
+Colon |	`&colon;` |	`&#58;` |	`:` |
+Semicolon |	`&semi;` |	`&#59;` |	`;` |
+Reversed Semicolon	`&bsemi;` |	`&#8271;` |	`⁏` |
+Exclamation Mark |	`&excl;` |	`&#33;` |	`!` |
+Prime |	`&bprime;` |	`&#8245;` |	`‵` |
+Reversed Prime |	`&prime;` |	`&#8242;` |	`′` |
+Double Prime |	`&Prime;` |	`&#8243;` |	`″` |
+Triple Prime |	`&trime;` |	`&#8244;` |	`‴` |
+Quadruple Prime |	`&qprime;` |	`&#8279;` |	`⁗` |
+Question Mark |	`&quest;` |	`&#63;` |	`?` |
+Number Sign |	`&num;` |	`&#35;` |	`#` |
+Ampersand |	`&amp;` |	`&#38;` |	`&` |
+Slash |	`&sol;` |	`&#47;` | `/` |
+Backslash |	`&bsol;` | `&#92;` |`\` |
+Left Parenthesis |	`&lpar;` |	`&#40;` |	`(` |
+Right Parenthesis |	`&rpar;` |	`&#41;` |	`)` |
+Left Square Bracket |	`&lbrack;` | `&#91;` |	`[` |
+Right Square Bracket |	`&rbrack;` | `&#93;` |	`]` |
+Left Curly Brace |	`&lbrace;` | `&#123;` |	`{` |
+Right Curly Brace |	`&rbrace;` | `&#125;` |	`}` |
+Underscore |	`&lowbar; |	`&#95;` | `_` |
+Backtick |	`&grave;` |	`&#96;` |``` |
+Pipe |	`&vert;` |	`&#124;` |	`|` |
+Double Pipe |	`&Vert;` |	`&#8124;` |	`‖` |
+Hyphen |	`&hyphen;` |	`&#8208;` |	`‐` |
+En Dash |	`&ndash;` |	`&#8211;` |	`–` |
+Em Dash |	`&mdash;` |	`&#8212;` |	`—` |
+Horizontal Bar |	`&horbar;` |	`&#8213;` |	`―;` |
+Bullet Point |	`&bull;` |	`&#8226;` |	`•` |
+Two Dot Leader	`&nldr;` |	`&#8229;` |	`‥` |
+Horizontal Elipsis | `&hellip;` |	`&#8230;` |	`…` |
+Hyphen Bullet |	`&hybull;` | `&#8259;` | `⁃` |
+Apostrophe | `&apos;` | `&#39;` | `'` |
+Quotation Mark | `&quot;`  | `&#39;` | `'` |
+Left Single Quotation Mark |	`&lsquo;` |	`&#8216;` |	`‘` |
+Right Single Quotation Mark	 |`&rsquo;` |	`&#8217;` |	`’` |
+Right Double Quotation Mark | `&rdquo;` |	`&#8221;` |	`”` |
+Left Double Quotation Mark | `&ldquo;` |	`&#8222;` |	`„` |
+Left Pointing Double Angle Quotation Mark |	`&laquo;` |	`&#171;` |	`'` |
+Right Pointing Double Angle Quotation Mark | `&raquo;` | `&#187;` |	`»` |
+Single Right Pointing Angle Quotation Mark | `&lsaquo;` | `&#8249;` | `‹` |
+| Single Left Pointing Angle Quotation Mark | `&rsaquo;` | `&#8250;` | `›` |
 
 <b>Arrows</b>
 | <b>Name</b> |	<b>Entity</b> |<b>HTML Code</b> | <b>Resulting Symbol</b> |
 |-------------|---------------|-----------------|-------------------------|
-Long Rightward Arrow	&xrarr;	&#10230;	⟶
-Long Leftward Arrow	&xharr;	&#10231;	⟷
-Clockwise Open Circle Arrow	&orarr;	&#8634;	↺
-Anticlockwise Open Circle Arrow	&olarr;	&#8635;	↻
-Leftwards Harpoon With Barb Upwards	&lharu;	&#8636;	↼
-Leftwards Harpoon With Barb Downwards	&lhard;	&#8637;	↽
-Upwards Harpoon With Barb Rightwards	&uharr;	&#8638;	↾
-Upwards Harpoon With Barb Leftwards	&uharl;	&#8639;	↿
-Upwards Harpoon With Barb Leftwards	&uharl;	&#8639;	↿
-Rightwards Harpoon With Barb Upwards	&rharu;	&#8640;	⇀
-Rightwards Harpoon With Barb Downwards	&rhard;	&#8641;	⇁
-Downwards Harpoon With Barb Rightwards	&rharr;	&#8642;	⇂
-Downwards Harpoon With Barb Leftwards	&rharl;	&#8643;	⇃
-Leftwards Harpoon Over Rightwards Harpoon	&lrhar;	&#8651;	⇋
-Rightwards Harpoon Over Leftwards Harpoon	&rlhar;	&#8652;	⇌
-Rightwards Arrow Over Leftwards Arrow	&rlarr;	&#8644;	⇄
-Upwards Arrow Beside Downwards Arrow	&udarr;	&#8645;	⇅
-Leftwards Arrow Over Rightwards Arrow	&lrarr;	&#8646;	⇆
+Long Rightward Arrow |	&xrarr; |	&#10230; |	⟶ |
+Long Leftward Arrow |	&xharr; |	&#10231; |	⟷ |
+Clockwise Open Circle Arrow |	&orarr; |	&#8634; |	↺ |
+Anticlockwise Open Circle Arrow |	&olarr; |	&#8635; |	↻ |
+Leftwards Harpoon With Barb Upwards |	&lharu; |	&#8636; |	↼ |
+Leftwards Harpoon With Barb Downwards |	&lhard; |	&#8637; |	↽ |
+Upwards Harpoon With Barb Rightwards |	&uharr; |	&#8638; |	↾ |
+Upwards Harpoon With Barb Leftwards |	&uharl; |	&#8639; |	↿ |
+Upwards Harpoon With Barb Leftwards |	&uharl; |	&#8639; |	↿ |
+Rightwards Harpoon With Barb Upwards |	&rharu;	| &#8640; |	⇀ |
+Rightwards Harpoon With Barb Downwards |	&rhard;	 | &#8641; |	⇁ |
+Downwards Harpoon With Barb Rightwards |	&rharr;	 | &#8642; |	⇂ |
+Downwards Harpoon With Barb Leftwards |	&rharl;	 | &#8643; |	⇃ |
+Leftwards Harpoon Over Rightwards Harpoon |	&lrhar; | &#8651; |	⇋ |
+Rightwards Harpoon Over Leftwards Harpoon |	&rlhar; | &#8652; |	⇌ |
+Rightwards Arrow Over Leftwards Arrow |	&rlarr; |	&#8644; |	⇄ |
+Upwards Arrow Beside Downwards Arrow |	&udarr; |	&#8645; |	⇅ |
+Leftwards Arrow Over Rightwards Arrow	&lrarr; |	&#8646; |	⇆
 Double Leftwards Arrow	&llarr;	&#8647;	⇇
 Double Upwards Arrow	&uuarr;	&#8648;	⇈
 Double Rightwards Arrow	&rrarr;	&#8649;	⇉
