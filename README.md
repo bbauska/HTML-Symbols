@@ -40,12 +40,12 @@ HTML code for that entity.
 | Not Equal Sign | `&ne;` | `&#8800;`  | `≠` |
 | Plus or Minus Sign |	`&plusmn;` |	`&#177;` |	`±` |
 | Minus or Plus Sign |	`&mnplus;` |	`&#8723;` |	`∓` |
-| Not Sign |	`&not;`	`&#172;` | `¬` |
+| Not Sign |	`&not;` | `&#172;` | `¬` |
 | Greater Than Sign |	`&gt;` | `&#62;`	 | `>` |
 | Less Than Sign | `&lt;` | `&#60;` |	`<` |
 | Greater Than or Equal to |	`&ge;` |	`&#8805;` |	`≥` |
 | Less Than or Equal to |	`&le;` |	`&#8804;` |	`≤` |
-| Greater Than Over Equal to |	`&gE;`	`&#8807;` |	`≧` |
+| Greater Than Over Equal to |	`&gE;` |	`&#8807;` |	`≧` |
 | Less Than Over Equal to |	`&lE;` |	`&#8806;` |	`≦` |
 | Greater Than But not Equal to |	`&gnE;` |	`&#8809;` |	`≩` |
 | Less Than But not Equal to | `&lnE;` |	`&#8808;` |	`≨` |
@@ -91,7 +91,7 @@ HTML code for that entity.
 | Not Parallel to| 	`&npar;` | `&#8742;`| `∦` |
 | Logical And | `&and;`	| `&#8743;` | `∧` |
 | Logical Or | `&or;` | `&#8744;` | `∨` |
-| Intersection	`&cap;` | `&#8745;`	| `∩` |
+| Intersection | `&cap;` | `&#8745;`	| `∩` |
 | Union  |	`&cup;` |	`&#8746;` |	`∩` |
 | Integral |	`&int;` |	`&#8746;` |	`∫` |
 | Double Integral |	`&Int;` |	`&#8748;` |	`∬` |
@@ -160,9 +160,9 @@ HTML code for that entity.
 | Dot Operator | `&sdot;` | `&#8901;` | 	`⋅` |
 | Star Operator | `&Star;` | `&#8902;` | `⋆` |
 | Division Operator | `&divonx;` | `&#8903;` | `⋇` |
-| Bowtie	`&bowtie;`	`&#8904;` | `⋈` |
-| Left Normal Factor Semidirect Product	`&ltimes;;` | `&#8905;` | `⋉` |
-| Right Normal Factor Semidirect Product | `&rtimes;;`	`&#8906;` | `⋊` |
+| Bowtie |	`&bowtie;` |	`&#8904;` | `⋈` |
+| Left Normal Factor Semidirect Product |	`&ltimes;;` | `&#8905;` | `⋉` |
+| Right Normal Factor Semidirect Product | `&rtimes;;` | `&#8906;` | `⋊` |
 | Double Subset	| `&Sub;` | `&#8912;` | `⋐` |
 | Double Superset | `&Sup;` | `&#8913;`	| `⋑` |
 | Double Intersection |	`&Cap;` |	`&#8914;` |	`⋒` |
@@ -174,7 +174,7 @@ HTML code for that entity.
 | Very Much Greater Than | `&Gg;` |	`&#8921;` |	`⋙` |
 | Not Normal Subgroup of |	`&nltri;` |	`&#8938;` |	`⋪` |
 | Does not Contain as Normal Subgroup |	`&nrtri;` |	`&#8938;` |	`⋫` |
-| Not Normal Subgroup of or Equal to |	`&nltrie;`	`&#8940;`	`⋬` |
+| Not Normal Subgroup of or Equal to |	`&nltrie;` |	`&#8940;` |	`⋬` |
 | Does not Contain as Normal Subgroup or Equal |	`&nrtrie;` |	`&#8941;` |	`⋭` |
 | Vertical Ellipsis |	`&vellip;` |	`&#8942;` |	`⋮` |
 | Horizontal Ellipsis |	`&ctdot;` |	`&#8943;` |	`⋮` |
@@ -182,8 +182,8 @@ HTML code for that entity.
 | Down Right Diagonal Ellipsis | `&dtdot;` |`&#8945;` |	`⋱` |
 | Left Ceiling | 	`&lceil;` | `&#89468;` | `⌈` |
 | Right Ceiling | 	`&rceil;` | `&#89469;` | `⌉` |
-| Right Floor | 	`&rfloor;`	`&#89470;` | `⌋` |
-| Left Floor | 	`&lfloor;`	`&#89471;`	`⌊` |
+| Right Floor | 	`&rfloor;` |	`&#89470;` | `⌋` |
+| Left Floor | 	`&lfloor;` |	`&#89471;` |	`⌊` |
 | Left Point Angle Bracket | `&lang;` | `&#9001;` | `⟨` |
 | Right Point Angle Bracket | `&rang;` | `&#9002;` | `⟩` |
 | Element of With Stroke	| `&disin;`	| `&#8946;`	| `⋲` |
