@@ -29,11 +29,13 @@ HTML code for that entity.
 ## HTML Icon and Entity Code List
 
 <b>Mathematics Symbols</b><br>
+
 | <b>Name</b> |	<b>Entity</b> |<b>HTML Code</b> | <b>Resulting Symbol</b> |
+|-------------|---------------|-----------------|-------------------------|
 | Plus Sign | `&plus;` | `&#43;` | `+` |
-Minus Sign | `&minus;` | `&#8722;` | `−` |
-Multiplication Sign	`&times;`	`&#215;` &nbsp;&nbsp;&nbsp; `×`<br>
-Division Sign	`&divide;`	`&#247;`&nbsp;&nbsp;&nbsp;`÷`<br>
+| Minus Sign | `&minus;` | `&#8722;` | `−` |
+| Multiplication Sign	`&times;`	`&#215;` &nbsp;&nbsp;&nbsp; `×`<br>
+| Division Sign	`&divide;`	`&#247;`&nbsp;&nbsp;&nbsp;`÷`<br>
 Equals Sign	&nbsp;&nbsp;&nbsp; `&equals;` &nbsp;&nbsp;&nbsp; `&#61;` &nbsp;&nbsp;&nbsp; `=`<br>
 Not Equal Sign &nbsp;&nbsp;&nbsp; `&ne;` &nbsp;&nbsp;&nbsp; `&#8800;` &nbsp;&nbsp;&nbsp; `≠`<br>
 Plus or Minus Sign	`&plusmn;`	`&#177;`	`±`<br>
