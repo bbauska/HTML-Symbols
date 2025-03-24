@@ -337,7 +337,7 @@ Rightwards Two-headed Arrow from Bar |	`&Map;` |	&#10501;` |	`⤅` |
 Leftwards Double-dash Arrow |	`&lbarr;` |	`&#10508;` |	`⤌` |
 Rightwards Double-dash Arrow |	`&rbarr;` |	`&#10509;` |	`⤍` |
 Leftwards Triple-dash Arrow |	`&lBarr;` |	`&#10510;` |	`⤎` |
-Rightwards Triple-dash Arrow |	`&rBarr;` |	`&#10511;`	`⤏` |
+Rightwards Triple-dash Arrow |	`&rBarr;` |	`&#10511;` |	`⤏` |
 Rightwards Two-headed Triple-dash Arrow |	`&RBarr;` |	`&#10512;` |	`⤐` |
 Rightwards Arrow from Dotted Stem |	`&DDotrahd;` |	`&#10513;` |	`⤑` |
 Upwards Arrow to Bar |	`&UpArrowBar;` |	`&#10514;` |	`⤒` |
@@ -345,8 +345,8 @@ Downwards Arrow to Bar |	`&DownArrowBar;` |	`&#10515;` |	`⤓` |
 Rightwards Two-headed Arrow with Tail |	`&Rarrtl;` |	`&#10518;` |	`⤖` |
 Leftwards Arrow-tail |	`&latail;` |	`&#10521;` |	`⤙` |
 Rightwards Arrow-tail |	`&ratail;` |	`&#10522;` |	`⤚` |
-Rightwards Double Arrow-tail |	`&rAtail;` |	&#10524;` |	`⤜` |
-Leftwards Double Arrow-tail |	`&lAtail;` |	&#10523;` |	`⤛` |
+Rightwards Double Arrow-tail |	`&rAtail;` |	`&#10524;` |	`⤜` |
+Leftwards Double Arrow-tail |	`&lAtail;` |	`&#10523;` |	`⤛` |
 Leftwards Arrow to Black Diamond |	`&larrfs;` |	`&#10525;` |	`⤝` |
 Rightwards Arrow to Black Diamond	 | `&rarrfs;` |	`&#10526;` |	`⤞` |
 Leftwards Arrow from Bar to Black Diamond |	`&larrbfs;` |	`&#10527;` |	`⤟` |
@@ -360,9 +360,9 @@ Northeast Arrow and Southeast Arrow |	`&nesear;` |	`&#10536;` |	`⤨` |
 Southeast Arrow and Southwest Arrow |	`&seswar;` |	`&#105367` |	`⤩` |
 Southeast Arrow and Northeast Arrow |	`&swnwar;` |	`&#105368` |	`⤪` |
 Rightwards Arrow Curving Downwards |	`&cudarrr;` |	`&#10549` |	`⤵` |
-Downwards Arrow Curving Leftwards  |	`&ldca;` |	&#10550 |	`⤶` |
-Downwards Arrow Curving Rightwards |	`&rdca;` |	&#10551 |	`⤷` |
-Right-side Arc Clockwise Arrow |	`&cudarrl;` |	&#10552 |	`⤸` |
+Downwards Arrow Curving Leftwards  |	`&ldca;` |	`&#10550` |	`⤶` |
+Downwards Arrow Curving Rightwards |	`&rdca;` |	`&#10551` |	`⤷` |
+Right-side Arc Clockwise Arrow |	`&cudarrl;` |	`&#10552` |	`⤸` |
 Left-side Arc Clockwise Arrow |	`&larrpl; |	`&#10553` |	`⤹` |
 Top Arc Clockwise Arrow with Minus |	`&curarrm;` |	`&#10556` |	`⤼` |
 Top Arc Anticlockwise Arrow with Plus |	`&cularrp;` |	`&#10557` |	`⤽` |
@@ -371,19 +371,19 @@ Left Right Arrow Through Circle |	`&harrcir;` |	`&#10568` |	`⥈` |
 Upwards Two-headed Arrow from Circle |	`&Uarrocir;` |	`&#10569` |	`⥈` |
 Left Barb Up Right Barb Down Harpoon Arrow |	`&lurdshar;` |	`&#10570` |	`⥊` |
 Left Barb Down Right Barb Up Harpoon Arrow |	`&ldrushar;` |	`&#10571` |	`⥋` |
-Up Barb Right Down Barb Right Harpoon Arrow |	`&RightUpDownVector;`	&#10575 |	`⥏` |
-Left Barb Down Right Barb Down Harpoon Arrow |	`&DownLeftRightVector;`	&#10576 |	`⥐` |
+Up Barb Right Down Barb Right Harpoon Arrow |	`&RightUpDownVector;` |	`&#10575` |	`⥏` |
+Left Barb Down Right Barb Down Harpoon Arrow |	`&DownLeftRightVector;` |	`&#10576` |	`⥐` |
 Up Barb Left Down Barb Left Harpoon Arrow |	`&LeftUpDownVector;` |	`&#10577` |	`⥑` |
 Upwards Harpoon with Barb Left from Bar	 | `&LeftUpTeeVector;` |	`&#10592` |	`⥠` |
 Downwards Harpoon with Barb Left from Bar |	`&LeftDownTeeVector;` |	`&#10593` |	`⥡` |
-Upwards Harpoon with Barb Left Beside Upwards Harpoon with Barb Right |	`&uHar; |	`&#10595` |	`⥣` |
-Leftwards Harpoon with Barb Up Above Leftwards Harpoon with Barb Down |	`&lHar; |	`&#10595` |	`⥢` |
-Rightwards Harpoon with Barb Up Above Rightwards Harpoon with Barb Down |	`&rHar;` |	&#10596 |	`⥤` |
-Downwards Harpoon with Barb Left Beside Downwards Harpoon with Barb Right |	`&dHar;` |	&#10597 |	`⥥` |
-Leftwards Harpoon with Barb Up Above Rightwards Harpoon with Barb Up |	`&luruhar;` |	&#10598 |	`⥦` |
-Leftwards Harpoon with Barb Down Above Rightwards Harpoon with Barb Down |	`&ldrdhar;` |	&#10599 |	⥧ |
-Rightwards Harpoon with Barb Up Above Leftwards Harpoon with Barb Up |	`&ruluhar;` |	&#105600 |	`𙲀` |
-Rightwards Harpoon with Barb Down Above Leftwards Harpoon with Barb Down |	`&rdldhar;` |	&#105601 |	`𙲁` |
+Upwards Harpoon with Barb Left Beside Upwards Harpoon with Barb Right |	`&uHar;` |	`&#10595` |	`⥣` |
+Leftwards Harpoon with Barb Up Above Leftwards Harpoon with Barb Down |	`&lHar;` |	`&#10595` |	`⥢` |
+Rightwards Harpoon with Barb Up Above Rightwards Harpoon with Barb Down |	`&rHar;` |	`&#10596` |	`⥤` |
+Downwards Harpoon with Barb Left Beside Downwards Harpoon with Barb Right |	`&dHar;` |	`&#10597` |	`⥥` |
+Leftwards Harpoon with Barb Up Above Rightwards Harpoon with Barb Up |	`&luruhar;` |	`&#10598` |	`⥦` |
+Leftwards Harpoon with Barb Down Above Rightwards Harpoon with Barb Down |	`&ldrdhar;` |	`&#10599` |	`⥧` |
+Rightwards Harpoon with Barb Up Above Leftwards Harpoon with Barb Up |	`&ruluhar;` |	`&#105600` |	`𙲀` |
+Rightwards Harpoon with Barb Down Above Leftwards Harpoon with Barb Down |	`&rdldhar;` |	`&#105601` |	`𙲁` |
 Leftwards Harpoon with Barb Down Below Long Dash |	`&llhard;` |	`&#105603` |	`𙲃` |
 Leftwards Harpoon with Barb Down Above Long Dash |	`&lharul;` |	`&#105602` |	`𙲂` |
 Rightwards Harpoon with Barb Up Above Long Dash |	`&rharul;` |	`&#105604` |	`𙲄` |
@@ -426,7 +426,7 @@ Small Letter Alpha |	`&alpha;` |	`&#945;` |	`α` |
 Small Letter Beta |	&beta; |	`&#946;` |	`β` |
 Small Letter Gamma |	`&gamma;` |	`&#947;` |	`γ` |
 Small Letter Delta |	`&delta;` |	`&#948;` |	`δ` |
-Small Letter Epsilon |	`&epsilon;` |	`&#949; |	`ε` |
+Small Letter Epsilon |	`&epsilon;` |	`&#949;` |	`ε` |
 Small Letter Zeta |	`&zeta;` |	`&#950;` |	`ζ` |
 Small Letter Eta |	`&eta;` |	`&#951;` |	`η` |
 Small Letter Theta |	`&theta;` |	`&#952;` |	`θ` |
@@ -452,46 +452,46 @@ Small Letter Omega |	`&omega;` |	`&#969;` |	`ω` |
 Latin Letters
 | <b>Name</b> |	<b>Entity</b> |<b>HTML Code</b> | <b>Resulting Symbol</b> |
 |-------------|---------------|-----------------|-------------------------|
-Capital Letter A with Grave	&Agrave;	&#192;	À
-Capital Letter A with Acute	&Aacute;	&#193;	Á
-Capital Letter A with Circumflex	&Acirc;	&#194;	Â
-Capital Letter A with Tilde	&Atilde;	&#195;	Ã
-Capital Letter A with Diaeresis	&Auml;	&#196;	Ä
-Capital Letter A with Ring Above	&Aring	&#197;	Å
-Capital Letter AE	&AElig;	&#198;	Æ
-Capital Letter C with Cedilla	&Ccedil;	&#199;	Ç
-Capital Letter E with Grave	&Egrave;	&#200;	È
-Capital Letter E with Acute	&Eacute;	&#201;	É
-Capital Letter E with Circumflex	&Ecirc;	&#202;	Ê
-Capital Letter E with Diaeresis	&Euml;	&#203;	Ë
-Capital Letter L with Grave	&Lgrave;	&#204;	Ì
-Capital Letter L with Acute	&Lacute;	&#205;	Í
-Capital Letter I with Circumflex	&Lcirc;	&#206;	Î
-Capital Letter I with Diaeresis	&Luml;	&#207;	Ï
-Letter Eth	&ETH;	&#208;	Ð
-Capital Letter N with Tilde	&NTilde;	&#209;	Ñ
-Capital Letter O with Grave	&Ograve;	&#210;	Ò
-Capital Letter O with Acute	&Oacute;	&#211;	Ó
-Capital Letter O with Circumflex	&Ocirc;	&#212;	Ô
-Capital Letter O with Tilde	&Otilde;	&#213;	Õ
-Capital Letter O with Diaeresis	&Ouml;	&#214;	Ö
-Capital Letter O with Stroke	&Oslash;	&#216;	Ø
-Capital Letter U with Grave	&Ugrave;	&#217;	Ù
-Capital Letter U with Acute	&Uacute;	&#218;	Ú
-Capital Letter U with Circumflex	&Ucirc;	&#219;	Û
-Capital Letter U with Diaeresis	&Uuml;	&#220;	Ü
-Capital Letter Y with Acute	&Yacute;	&#221;	Ý
-Letter Thorn	&THORN;	&#222;	Þ
-Letter Sharp S	&szlig;	&#223;	ß
-Small Letter a with Grave	&agrave;	&#224;	à
-Small Letter a with Acute	&aacute;	&#225;	á
-Small Letter a with Circumflex	&acirc;	&#226;	â
-Small Letter a with Tilde	&atilde;	&#227;	ã
-Small Letter a with Diaeresis	&auml;	&#228;	ä
-Small Letter a with Ring Above	&aring;	&#229;	å
-Small Letter c with Cedilla	&ccedil;	&#231;	ç
-Small Letter e with Grave	&egrave;	&#232;	è
-Small Letter e with Acute	&eacute;	&#233;	é
+Capital Letter A with Grave |	`&Agrave;` |	`&#192;` |	`À` |
+Capital Letter A with Acute |	`&Aacute;` |	`&#193;` |	`Á` |
+Capital Letter A with Circumflex |	`&Acirc;` |	`&#194;` |	`Â` |
+Capital Letter A with Tilde |	`&Atilde;` |	`&#195;` |	`Ã` |
+Capital Letter A with Diaeresis |	`&Auml;` |	`&#196;` |	`Ä` |
+Capital Letter A with Ring Above |	`&Aring` |	`&#197;` |	`Å` |
+Capital Letter AE |	`&AElig;` |	`&#198;` |	`Æ` |
+Capital Letter C with Cedilla |	`&Ccedil;` |	`&#199;` |	`Ç` |
+Capital Letter E with Grave |	`&Egrave;` |	`&#200;` |	`È` |
+Capital Letter E with Acute |	`&Eacute;` |	`&#201;` |	`É` |
+Capital Letter E with Circumflex |	`&Ecirc;` |	`&#202;` |	`Ê` |
+Capital Letter E with Diaeresis |	`&Euml;` |	`&#203;` | `Ë` |
+Capital Letter L with Grave |	`&Lgrave;` |	`&#204;` |	`Ì` |
+Capital Letter L with Acute |	`&Lacute;` |	`&#205;` |	`Í` |
+Capital Letter I with Circumflex |	`&Lcirc;` |	`&#206;` |	`Î` |
+Capital Letter I with Diaeresis |	`&Luml;` |	`&#207;` |	Ï |
+Letter Eth |	`&ETH;` |	`&#208;` |	`Ð` |
+Capital Letter N with Tilde |	`&NTilde;` |	`&#209;` |	`Ñ` |
+Capital Letter O with Grave |	`&Ograve;` |	`&#210;` |	`Ò` |
+Capital Letter O with Acute |	`&Oacute;` |	`&#211;` |	`Ó` |
+Capital Letter O with Circumflex |	`&Ocirc;` |	`&#212;` |	`Ô` |
+Capital Letter O with Tilde |	`&Otilde;` |	`&#213;` |	`Õ` |
+Capital Letter O with Diaeresis |	`&Ouml;` |	`&#214;` |	`Ö` |
+Capital Letter O with Stroke |	`&Oslash;` |	`&#216;` |	`Ø` |
+Capital Letter U with Grave |	`&Ugrave;` |	`&#217;` |	`Ù` |
+Capital Letter U with Acute |	`&Uacute;` |	`&#218;` |	`Ú` |
+Capital Letter U with Circumflex |	`&Ucirc;` |	`&#219;` |	`Û` |
+Capital Letter U with Diaeresis |	`&Uuml;` |	`&#220;` |	`Ü` |
+Capital Letter Y with Acute |	`&Yacute;` |	`&#221;` |	`Ý` |
+Letter Thorn |	`&THORN;` |	`&#222;` |	`Þ` |
+Letter Sharp S |	`&szlig;` |	`&#223;` |	`ß` |
+Small Letter a with Grave |	`&agrave;` |	`&#224;` |	`à` |
+Small Letter a with Acute |	`&aacute;` |	`&#225;` |	`á` |
+Small Letter a with Circumflex |	`&acirc;` |	`&#226;` |	`â` |
+Small Letter a with Tilde |	`&atilde;` |	`&#227;` |	`ã` |
+Small Letter a with Diaeresis |	`&auml;` |	`&#228;` |	`ä`
+Small Letter a with Ring Above |	`&aring;` |	`&#229;` |	`å`
+Small Letter c with Cedilla |	&ccedil;	&#231;	ç
+Small Letter e with Grave |	&egrave;	&#232;	è
+Small Letter e with Acute |	&eacute;	&#233;	é
 Small Letter e with Circumflex	&ecirc;	&#234;	ê
 Small Letter e with Diaeresis	&euml;	&#235;	ë
 Small Letter i with Grave	&igrave;	&#236;	ì
