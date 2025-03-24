@@ -27,10 +27,11 @@ On some occasions, the browser might not recognize the entity names, so it’s b
 HTML code for that entity.
 
 ## HTML Icon and Entity Code List
+
 <b>Mathematics Symbols</b><br>
-<b>Name        		Entity		HTML Code	Resulting Symbol</b><br>
-Plus Sign  &nbsp;&nbsp;&nbsp; `&plus;` &nbsp;&nbsp;&nbsp; `&#43;` &nbsp;&nbsp;&nbsp; `+`<br>
-Minus Sign &nbsp;&nbsp;&nbsp; `&minus;` &nbsp;&nbsp;&nbsp; `&#8722;` &nbsp;&nbsp;&nbsp; `−`<br>
+| <b>Name</b> |	<b>Entity</b> |<b>HTML Code</b> | <b>Resulting Symbol</b> |
+| Plus Sign | `&plus;` | `&#43;` | `+` |
+Minus Sign | `&minus;` | `&#8722;` | `−` |
 Multiplication Sign	`&times;`	`&#215;` &nbsp;&nbsp;&nbsp; `×`<br>
 Division Sign	`&divide;`	`&#247;`&nbsp;&nbsp;&nbsp;`÷`<br>
 Equals Sign	&nbsp;&nbsp;&nbsp; `&equals;` &nbsp;&nbsp;&nbsp; `&#61;` &nbsp;&nbsp;&nbsp; `=`<br>
