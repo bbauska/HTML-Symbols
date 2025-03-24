@@ -29,63 +29,63 @@ HTML code for that entity.
 ## HTML Icon and Entity Code List
 <b>Mathematics Symbols</b><br>
 <b>Name        		Entity		HTML Code	Resulting Symbol</b><br>
-Plus Sign      		`&plus;` 	`&#43;`     `+`<br>
-Minus Sign			`&minus;`	`&#8722;`	`−`<br>
-Multiplication Sign	`&times;`	`&#215;`	`×`<br>
+Plus Sign  &nbsp;&nbsp;&nbsp; `&plus;` &nbsp;&nbsp;&nbsp; `&#43;` &nbsp;&nbsp;&nbsp; `+`<br>
+Minus Sign &nbsp;&nbsp;&nbsp; `&minus;` &nbsp;&nbsp;&nbsp; `&#8722;` &nbsp;&nbsp;&nbsp; `−`<br>
+Multiplication Sign	`&times;`	`&#215;` &nbsp;&nbsp;&nbsp; `×`<br>
 Division Sign	`&divide;`	`&#247;`&nbsp;&nbsp;&nbsp;`÷`<br>
-Equals Sign	`&equals;`	`&#61;`	`=`<br>
-Not Equal Sign	&ne;	`&#8800;`	`≠`<br>
+Equals Sign	&nbsp;&nbsp;&nbsp; `&equals;` &nbsp;&nbsp;&nbsp; `&#61;` &nbsp;&nbsp;&nbsp; `=`<br>
+Not Equal Sign &nbsp;&nbsp;&nbsp; `&ne;` &nbsp;&nbsp;&nbsp; `&#8800;` &nbsp;&nbsp;&nbsp; `≠`<br>
 Plus or Minus Sign	`&plusmn;`	`&#177;`	`±`<br>
 Minus or Plus Sign	`&mnplus;`	`&#8723;`	`∓`<br>
-Not Sign	&not;	&#172;	¬<br>
-Greater Than Sign	&gt;	&#62;	><br>
-Less Than Sign	&lt;	&#60;	<<br>
-Greater Than or Equal to	&ge;	&#8805;	≥<br>
-Less Than or Equal to	&le;	&#8804;	≤<br>
-Greater Than Over Equal to	&gE;	&#8807;	≧<br>
-Less Than Over Equal to	&lE;	&#8806;	≦<br>
-Greater Than But not Equal to	&gnE;	&#8809;	≩<br>
-Less Than But not Equal to	&lnE;	&#8808;	≨<br>
-Much Greater Than	&Gt;	&#8811;	≫<br>
-Much Less Than	&Lt;	&#8810;	≪<br>
-Not Greater Than	&ngt;	&#8815;	≯<br>
-Not Less Than	&nlt;	&#8814;	≮<br>
-Neither Greater Than nor Equal to	&nge;	&#8817;	≱<br>
-Neither Less Than nor Equal to	&nle;	&#8816;	≰<br>
-Greater Than or Equivalent to	&gsim;	&#8819;	≳<br>
-Greater Than or Less Than	&gl;	&#8823;	≷<br>
-Less Than or Greater Than	&lg;	&#8822;	≶<br>
-Less than or Greater than	&gsim;	&#8819;	≳<br>
-Neither Less than nor Greater than	&ntlg;	&#8824;	≸<br>
-Neither Greater than nor Less than	&ntgl;	&#8825;	≹<br>
-Degree Sign	&deg;	&#176;	°<br>
-Superscript One Sign	&sup1;	&#185;	¹<br>
-Superscript Two Sign	&sup2;	&#178;	²<br>
-Superscript Three Sign	&sup3;	&#179;	³<br>
-Percentage Sign	&percnt;	&#37;	%<br>
-Small Letter F With Hook	&fnof;	&#402;	ƒ<br>
-There Exists	&exist;	&#8707;	∃<br>
-There Does Not Exist	&nexist;	&#8708;	∄<br>
-Empty Set	&empty;	&#8709;	∅<br>
-Nabla	&nabla;	&#8711;	∇<br>
-Element of	&isin;	&#8712;	∈<br>
-Not an Element of	&notin;	&#8713;	∉<br>
-Summation	&sum;	#8721	∑<br>
-Contains as Member	&ni;	&#8715;	∋<br>
-Does not contain as Member	&notni;	&#8716;	∌<br>
-Dot Plus	&plusdo;	&#8724;	∔<br>
-Asterik	&lowast;	&#8727;	∗<br>
-Setminus	&setminus;	&#8726;	∖<br>
-Square Root	&radic;	&#8730;	√<br>
-Infinity	&infin;	&#8734;	∞<br>
-Angle	&ang;	&#8736;	∠<br>
-Measured Angle	&angmsd;	&#8737;	∡<br>
-Spherical Angle	&angsph;	&#8738;	∢<br>
-Right Angle	&angrt;	&#8735;	∟<br>
-Divides	&mid;	&#8739;	∣<br>
-Does not Divide	&nmid;	&#8740;	∤<br>
-Parallel to	&parallel;	&#8741;	∥<br>
-Not Parallel to	&npar;	&#8742;	∦<br>
+Not Sign	`&not;`	`&#172;`	`¬`<br>
+Greater Than Sign	`&gt;`	`&#62;`	`>`<br>
+Less Than Sign	`&lt;`	`&#60;`	`<`<br>
+Greater Than or Equal to	`&ge;`	`&#8805;`	`≥`<br>
+Less Than or Equal to	`&le;`	`&#8804;`	`≤`<br>
+Greater Than Over Equal to	`&gE;`	`&#8807;`	`≧`<br>
+Less Than Over Equal to	`&lE;`	`&#8806;`	`≦`<br>
+Greater Than But not Equal to	`&gnE;`	`&#8809;`	`≩`<br>
+Less Than But not Equal to	`&lnE;`	`&#8808;`	`≨`<br>
+Much Greater Than	`&Gt;`	`&#8811;`	`≫`<br>
+Much Less Than	`&Lt;`	`&#8810;`	`≪`<br>
+Not Greater Than	`&ngt;`	`&#8815;`	`≯`<br>
+Not Less Than	`&nlt;`	`&#8814;`	`≮`<br>
+Neither Greater Than nor Equal to	`&nge;`	`&#8817;`	`≱`<br>
+Neither Less Than nor Equal to	`&nle;`	`&#8816;`	`≰`<br>
+Greater Than or Equivalent to	`&gsim;`	`&#8819;`	`≳`<br>
+Greater Than or Less Than	`&gl;`	`&#8823;`	`≷`<br>
+Less Than or Greater Than	`&lg;`	`&#8822;`	`≶`<br>
+Less than or Greater than	`&gsim;	`&#8819;`	`≳`<br>
+Neither Less than nor Greater than	`&ntlg;`	`&#8824;`	`≸`<br>
+Neither Greater than nor Less than	`&ntgl;`	`&#8825;`	`≹`<br>
+Degree Sign	`&deg;`	`&#176;`	`°`<br>
+Superscript One Sign	`&sup1;`	`&#185;`	`¹`<br>
+Superscript Two Sign	`&sup2;`	`&#178;`	`²`<br>
+Superscript Three Sign	`&sup3;`	`&#179;`	`³`<br>
+Percentage Sign	`&percnt;`	`&#37;`	`%`<br>
+Small Letter F With Hook	`&fnof;`	`&#402;`	`ƒ`<br>
+There Exists	`&exist;`	`&#8707;`	`∃`<br>
+There Does Not Exist	`&nexist;`	`&#8708;`	`∄`<br>
+Empty Set	`&empty;`	`&#8709;`	`∅`<br>
+Nabla	`&nabla;`	`&#8711;`	`∇`<br>
+Element of	`&isin;`	`&#8712;`	`∈`<br>
+Not an Element of	`&notin;`	`&#8713;`	`∉`<br>
+Summation	`&sum;`	`#8721`	`∑`<br>
+Contains as Member	`&ni;`	`&#8715;`	`∋`<br>
+Does not contain as Member	`&notni;`	`&#8716;`	`∌`<br>
+Dot Plus	`&plusdo;`	`&#8724;`	`∔`<br>
+Asterik	`&lowast;`	`&#8727;`	`∗`<br>
+Setminus	`&setminus;`	`&#8726;`	`∖`<br>
+Square Root	`&radic;`	`&#8730;`	`√`<br>
+Infinity	`&infin;`	`&#8734;`	`∞`<br>
+Angle	`&ang;`	`&#8736;`	`∠`<br>
+Measured Angle	`&angmsd;`	`&#8737;`	`∡`<br>
+Spherical Angle	`&angsph;`	`&#8738;`	`∢`<br>
+Right Angle	`&angrt;`	`&#8735;`	`∟`<br>
+Divides	&mid;	`&#8739;`	`∣`<br>
+Does not Divide	`&nmid;`	`&#8740;`	`∤`<br>
+Parallel to	`&parallel;`	`&#8741;`	`∥`<br>
+Not Parallel to	`&npar;`	`&#8742;`	`∦`<br>
 Logical And	&and;	&#8743;	∧<br>
 Logical Or	&or;	&#8744;	∨<br>
 Intersection	&cap;	&#8745;	∩<br>
@@ -191,81 +191,83 @@ Element of With Overbar	&notinvc;	&#8950;	⋶<br>
 Small Element of With Overbar	&notinvb;	&#8951;	⋷<br>
 
 <b>Fractions</b>
-One Quarter	&frac14;	&#188;	¼<br>
-One Half	&frac12;	&#189;	½<br>
-Three Quarters	&frac34;	&#190;	¾<br>
-One Third	&frac13;	&#8531;	⅓<br>
-Two Thirds	&frac23;	&#8532;	⅔<br>
-One Fifth	&frac15;	&#8533;	⅕<br>
-Two Fifths	&frac25;	&#8534;	⅖<br>
-Three Fifths	&frac35;	&#8535;	⅗<br>
-Four Fifths	&frac45;	&#8536;	⅘<br>
-One Sixth	&frac16;	&#8537;	⅙<br>
-Five sixths	&frac56;	&#8538;	⅚<br>
-One Eighth	&frac18;	&#8539;	⅛<br>
-Three Eighths	&frac38;	&#8540;	⅜<br>
-Five Eighths	&frac58;	&#8541;	⅝<br>
-Seven Eighths	&frac78;	&#8542;	⅞<br>
+One Quarter	`&frac14;`	`&#188;`	`¼`<br>
+One Half	`&frac12;`	`&#189;`	`½`<br>
+Three Quarters	`&frac34;`	`&#190;`	`¾`<br>
+One Third	`&frac13;`	`&#8531;`	`⅓`<br>
+Two Thirds	`&frac23;`	`&#8532;`	`⅔`<br>
+One Fifth	`&frac15;`	`&#8533;`	`⅕`<br>
+Two Fifths	`&frac25;`	`&#8534;`	`⅖`<br>
+Three Fifths	`&frac35;`	`&#8535;`	`⅗`<br>
+Four Fifths	`&frac45;`	`&#8536;`	`⅘`<br>
+One Sixth	`&frac16;`	`&#8537;`	`⅙`<br>
+Five sixths	`&frac56;`	`&#8538;`	`⅚`<br>
+One Eighth	`&frac18;`	`&#8539;`	`⅛`<br>
+Three Eighths	`&frac38;`	`&#8540;`	`⅜`<br>
+Five Eighths	`&frac58;`	`&#8541;`	`⅝`<br>
+Seven Eighths	`&frac78;`	`&#8542;`	`⅞`<br>
 
 <b>Currency Symbols</b>
-Dollar Sign	&dollar;	&#36;	$<br>
-Cent Sign	&cent;	&#162;	¢<br>
-Euro Sign	&euro;	&#8364;	€<br>
-Pound Sign	&pound;	&#163;	€
-Yen Sign	&yen;	&#165;	¥
-Naira Sign		&#8358;	₦
-Rupee Sign		&#8360;	₨
-Indian Rupee Sign		&#8377;	₹
-Bengali Rupee Sign		&#2546;	৲
-Bengali Rupee Sign		&#2547;	৳
-Turkish Lira Sign		&#8378;	₺
-Bitcoin Sign		&#8383;	₿
-Punctuation and Quotation Marks
-Full Stop	&period;	&#46;	.
-Comma	&comma;	&#44;	,
-Colon	&colon;	&#58;	:
-Semicolon	&semi;	&#59;	;
-Reversed Semicolon	&bsemi;	&#8271;	⁏
-Exclamation Mark	&excl;	&#33;	!
-Prime	&bprime;	&#8245;	‵
-Reversed Prime	&prime;	&#8242;	′
-Double Prime	&Prime;	&#8243;	″
-Triple Prime	&trime;	&#8244;	‴
-Quadruple Prime	&qprime;	&#8279;	⁗
-Question Mark	&quest;	&#63;	?
-Number Sign	&num;	&#35;	#
-Ampersand	&amp;	&#38;	&
-Slash	&sol;	&#47;	/
-Backslash	&bsol;	&#92;	\
-Left Parenthesis	&lpar;	&#40;	(
-Right Parenthesis	&rpar;	&#41;	)
-Left Square Bracket	&lbrack;	&#91;	[
-Right Square Bracket	&rbrack;	&#93;	]
-Left Curly Brace	&lbrace;	&#123;	{
-Right Curly Brace	&rbrace;	&#125;	}
-Underscore	&lowbar;	&#95;	_
-Backtick	&grave;	&#96;	`
-Pipe	&vert;	&#124;	|
-Double Pipe	&Vert;	&#8124;	‖
-Hyphen	&hyphen;	&#8208;	‐
-En Dash	&ndash;	&#8211;	–
-Em Dash	&mdash;	&#8212;	—
-Horizontal Bar	&horbar;	&#8213;	―;
-Bullet Point	&bull;	&#8226;	•
-Two Dot Leader	&nldr;	&#8229;	‥
-Horizontal Elipsis	&hellip;	&#8230;	…
-Hyphen Bullet	&hybull;	&#8259;	⁃
-Apostrophe	&apos;	&#39;	'
-Quotation Mark	&quot;	&#39;	'
-Left Single Quotation Mark	&lsquo;	&#8216;	‘
-Right Single Quotation Mark	&rsquo;	&#8217;	’
-Right Double Quotation Mark	&rdquo;	&#8221;	”
-Left Double Quotation Mark	&ldquo;	&#8222;	„
-Left Pointing Double Angle Quotation Mark	&laquo;	&#171;	'
-Right Pointing Double Angle Quotation Mark	&raquo;	&#187;	»
-Single Right Pointing Angle Quotation Mark	&lsaquo;	&#8249;	‹
-Single Left Pointing Angle Quotation Mark	&rsaquo;	&#8250;	›
-Arrows
+Dollar Sign	`&dollar;`	`&#36;`	`$`<br>
+Cent Sign	`&cent;`	`&#162;`	`¢`<br>
+Euro Sign	`&euro;`	`&#8364;`	`€`<br>
+Pound Sign	`&pound;`	`&#163;`	`€`
+Yen Sign	`&yen;`	`&#165;`	`¥`
+Naira Sign		`&#8358;`	`₦`
+Rupee Sign		`&#8360;`	`₨`
+Indian Rupee Sign		`&#8377;`	`₹`
+Bengali Rupee Sign		`&#2546;`	`৲`
+Bengali Rupee Sign		`&#2547;`	`৳`
+Turkish Lira Sign		`&#8378;`	`₺`
+Bitcoin Sign		`&#8383;`	`₿`
+
+<b>Punctuation and Quotation Marks</b>
+Full Stop	`&period;`	`&#46;`	`.`
+Comma	`&comma;`	`&#44;`	`,`
+Colon	`&colon;`	`&#58;`	`:`
+Semicolon	`&semi;`	`&#59;`	`;`
+Reversed Semicolon	`&bsemi;`	`&#8271;`	`⁏`
+Exclamation Mark	`&excl;`	`&#33;`	`!`
+Prime	`&bprime;`	`&#8245;`	`‵`
+Reversed Prime	`&prime;`	`&#8242;`	`′`
+Double Prime	`&Prime;`	`&#8243;`	`″`
+Triple Prime	`&trime;`	`&#8244;`	`‴`
+Quadruple Prime	`&qprime;`	`&#8279;`	`⁗`
+Question Mark	`&quest;`	`&#63;`	`?`
+Number Sign	`&num;`	`&#35;`	`#`
+Ampersand	`&amp;`	`&#38;`	`&`
+Slash	`&sol;`	`&#47;`	`/`
+Backslash	`&bsol;`	`&#92;`	`\`
+Left Parenthesis	`&lpar;`	`&#40;`	`(`
+Right Parenthesis	`&rpar;`	`&#41;`	`)`
+Left Square Bracket	`&lbrack;`	`&#91;`	`[`
+Right Square Bracket	`&rbrack;`	`&#93;`	`]`
+Left Curly Brace	`&lbrace;`	`&#123;`	`{`
+Right Curly Brace	`&rbrace;`	`&#125;`	`}`
+Underscore	`&lowbar;	`&#95;`	`_`
+Backtick	`&grave;`	`&#96;`	```
+Pipe	`&vert;`	`&#124;`	`|`
+Double Pipe	`&Vert;`	`&#8124;`	`‖`
+Hyphen	`&hyphen;`	`&#8208;`	‐
+En Dash	`&ndash;`	`&#8211;`	`–`
+Em Dash	`&mdash;`	`&#8212;`	`—`
+Horizontal Bar	`&horbar;`	`&#8213;`	`―;`
+Bullet Point	`&bull;`	`&#8226;`	`•`
+Two Dot Leader	`&nldr;`	`&#8229;`	`‥`
+Horizontal Elipsis	`&hellip;`	`&#8230;`	`…`
+Hyphen Bullet	`&hybull;`	`&#8259;`	`⁃`
+Apostrophe	`&apos;`	`&#39;`	`'`
+Quotation Mark	`&quot;`	`&#39;`	`'`
+Left Single Quotation Mark	`&lsquo;`	`&#8216;`	`‘`
+Right Single Quotation Mark	`&rsquo;`	`&#8217;`	`’`
+Right Double Quotation Mark	`&rdquo;`	`&#8221;`	`”`
+Left Double Quotation Mark	`&ldquo;`	`&#8222;`	`„`
+Left Pointing Double Angle Quotation Mark	`&laquo;`	`&#171;`	`'`
+Right Pointing Double Angle Quotation Mark	`&raquo;`	`&#187;`	`»`
+Single Right Pointing Angle Quotation Mark	`&lsaquo;`	`&#8249;`	`‹`
+Single Left Pointing Angle Quotation Mark &nbsp;&nbsp;&nbsp; `&rsaquo;` &nbsp;&nbsp;&nbsp; `&#8250;` &nbsp;&nbsp;&nbsp; `›`
+
+<b>Arrows</b>
 Long Rightward Arrow	&xrarr;	&#10230;	⟶
 Long Leftward Arrow	&xharr;	&#10231;	⟷
 Clockwise Open Circle Arrow	&orarr;	&#8634;	↺
