@@ -220,13 +220,13 @@ HTML code for that entity.
 | Euro Sign | `&euro;` | `&#8364;` | `€` |
 | Pound Sign | `&pound;` | `&#163;`	| `€` |
 | Yen Sign | `&yen;` | `&#165;` | `¥` |
-| Naira Sign | `&#8358;` | `₦` |
-| Rupee Sign | `&#8360;` | `₨` |
-| Indian Rupee Sign	 | `&#8377;` | `₹` |
-| Bengali Rupee Sign | `&#2546;` | `৲` |
-| Bengali Rupee Sign | `&#2547;` | `৳` |
-| Turkish Lira Sign | `&#8378;` | `₺` |
-| Bitcoin Sign | `&#8383;` | `₿` |
+| Naira Sign | Naira | `&#8358;` | `₦` |
+| Rupee Sign | Rupee | `&#8360;` | `₨` |
+| Indian Rupee Sign	| Indian Rupee | `&#8377;` | `₹` |
+| Bengali Rupee Sign | Bengali Rupee | `&#2546;` | `৲` |
+| Bengali Rupee Sign | Bengali Rupp #2 | `&#2547;` | `৳` |
+| Turkish Lira Sign | Turkish Lira | `&#8378;` | `₺` |
+| Bitcoin Sign | Bitcoin | `&#8383;` | `₿` |
 
 <b>Punctuation and Quotation Marks</b>
 | <b>Name</b> |	<b>Entity</b> |<b>HTML Code</b> | <b>Resulting Symbol</b> |
@@ -235,7 +235,7 @@ Full Stop |	`&period;` |	`&#46;` |	`.` |
 Comma | `&comma;` |	`&#44;` |	`,` |
 Colon |	`&colon;` |	`&#58;` |	`:` |
 Semicolon |	`&semi;` |	`&#59;` |	`;` |
-Reversed Semicolon	`&bsemi;` |	`&#8271;` |	`⁏` |
+Reversed Semicolon | `&bsemi;` |	`&#8271;` |	`⁏` |
 Exclamation Mark |	`&excl;` |	`&#33;` |	`!` |
 Prime |	`&bprime;` |	`&#8245;` |	`‵` |
 Reversed Prime |	`&prime;` |	`&#8242;` |	`′` |
@@ -253,7 +253,7 @@ Left Square Bracket |	`&lbrack;` | `&#91;` |	`[` |
 Right Square Bracket |	`&rbrack;` | `&#93;` |	`]` |
 Left Curly Brace |	`&lbrace;` | `&#123;` |	`{` |
 Right Curly Brace |	`&rbrace;` | `&#125;` |	`}` |
-Underscore |	`&lowbar; |	`&#95;` | `_` |
+Underscore | `&lowbar;` |	`&#95;` | `_` |
 Backtick |	`&grave;` |	`&#96;` |``` |
 Pipe |	`&vert;` |	`&#124;` |	`|` |
 Double Pipe |	`&Vert;` |	`&#8124;` |	`‖` |
@@ -262,7 +262,7 @@ En Dash |	`&ndash;` |	`&#8211;` |	`–` |
 Em Dash |	`&mdash;` |	`&#8212;` |	`—` |
 Horizontal Bar |	`&horbar;` |	`&#8213;` |	`―;` |
 Bullet Point |	`&bull;` |	`&#8226;` |	`•` |
-Two Dot Leader	`&nldr;` |	`&#8229;` |	`‥` |
+Two Dot Leader | `&nldr;` |	`&#8229;` |	`‥` |
 Horizontal Elipsis | `&hellip;` |	`&#8230;` |	`…` |
 Hyphen Bullet |	`&hybull;` | `&#8259;` | `⁃` |
 Apostrophe | `&apos;` | `&#39;` | `'` |
@@ -279,175 +279,175 @@ Single Right Pointing Angle Quotation Mark | `&lsaquo;` | `&#8249;` | `‹` |
 <b>Arrows</b>
 | <b>Name</b> |	<b>Entity</b> |<b>HTML Code</b> | <b>Resulting Symbol</b> |
 |-------------|---------------|-----------------|-------------------------|
-Long Rightward Arrow |	&xrarr; |	&#10230; |	⟶ |
-Long Leftward Arrow |	&xharr; |	&#10231; |	⟷ |
-Clockwise Open Circle Arrow |	&orarr; |	&#8634; |	↺ |
-Anticlockwise Open Circle Arrow |	&olarr; |	&#8635; |	↻ |
-Leftwards Harpoon With Barb Upwards |	&lharu; |	&#8636; |	↼ |
-Leftwards Harpoon With Barb Downwards |	&lhard; |	&#8637; |	↽ |
-Upwards Harpoon With Barb Rightwards |	&uharr; |	&#8638; |	↾ |
-Upwards Harpoon With Barb Leftwards |	&uharl; |	&#8639; |	↿ |
-Upwards Harpoon With Barb Leftwards |	&uharl; |	&#8639; |	↿ |
-Rightwards Harpoon With Barb Upwards |	&rharu;	| &#8640; |	⇀ |
-Rightwards Harpoon With Barb Downwards |	&rhard;	 | &#8641; |	⇁ |
-Downwards Harpoon With Barb Rightwards |	&rharr;	 | &#8642; |	⇂ |
-Downwards Harpoon With Barb Leftwards |	&rharl;	 | &#8643; |	⇃ |
-Leftwards Harpoon Over Rightwards Harpoon |	&lrhar; | &#8651; |	⇋ |
-Rightwards Harpoon Over Leftwards Harpoon |	&rlhar; | &#8652; |	⇌ |
-Rightwards Arrow Over Leftwards Arrow |	&rlarr; |	&#8644; |	⇄ |
-Upwards Arrow Beside Downwards Arrow |	&udarr; |	&#8645; |	⇅ |
-Leftwards Arrow Over Rightwards Arrow	&lrarr; |	&#8646; |	⇆
-Double Leftwards Arrow	&llarr;	&#8647;	⇇
-Double Upwards Arrow	&uuarr;	&#8648;	⇈
-Double Rightwards Arrow	&rrarr;	&#8649;	⇉
-Double Downwards Arrow	&ddarr;	&#8650;	⇊
-Leftwards Double Arrow	&lArr;	&#8656;	⇐
-Rightwards Double Arrow	&rArr;	&#8658;	⇑
-Upwards Double Arrow	&uArr;	&#8657;	⇑
-Downwards Double Arrow	&dArr;	&#8659;	⇓
-Leftwards Double Arrow with Stroke	&nlArr;	&#8653;	⇍
-Rightwards Double Arrow with Stroke	&nrArr;	&#8655;	⇏
-Left Right Double Arrow	&nhArr;	&#8660;	⇔
-Left Right Double Arrow with Stroke	&hArr;	&#8654;	⇎
-Up Down Double Arrow	&udarr;	&#8661;	⇕
-Down Up Double Arrow	&duarr;	&#8693;	⇵
-Northwest Double Arrow	&nwArr;	&#8662;	⇖
-Northeast Double Arrow	&neArr;	&#8663;	⇗
-Southeast Double Arrow	&seArr;	&#8664;	⇘
-Southwest Double Arrow	&swArr;	&#8665;	⇙
-Leftwards Triple Arrow	&lAarr;	&#8666;	⇚
-Rightwards Triple Arrow	&rAarr;	&#8667;	⇛
-Leftwards Squiggle Arrow	&ziglarr;	&#8668;	⇜
-Rightwards Squiggle Arrow	&ziglrarr;	&#8669;	⇝
-Leftwards Arrow Bar	&larrb;	&#8676;	⇤
-Rightwards Arrow Bar	&rarrb;	&#8677;	⇥
-Left Right Open-headed Arrow	&hoarr;	&#8703;	⇿
-Leftwards Open-headed Arrow	&loarr;	&#8701;	⇿
-Rightwards Open-headed Arrow	&roarr;	&#8702;	⇾
-Left Right Arrow	&xharr;	&#10231;	⟷
-Leftwards Double Arrow	&xlArr;	&#10232;	⟸
-Rightwards Double Arrow	&xrArr;	&#10233;	⟹
-Left Right Double Arrow	xhArr;	&#10234;	⟺
-Long Rightwards Squiggle Arrow	&dzigrarr;	&#10239;	⟿
-Long Rightwards Arrow from Bar	&xmap;	&#10236;	⟼
-Leftwards Arrow with Vertical Stroke Bar	&nvlArr;	&#10498;	⤂
-Rightwards Arrow with Vertical Stroke Bar	&nvaArr;	&#10499;	⤃
-Left Right Double Arrow with Vertical Stroke Bar	&nvHarr;	&#10500;	⤄
-Rightwards Two-headed Arrow from Bar	&Map;	&#10501;	⤅
-Leftwards Double-dash Arrow	&lbarr;	&#10508;	⤌
-Rightwards Double-dash Arrow	&rbarr;	&#10509;	⤍
-Leftwards Triple-dash Arrow	&lBarr;	&#10510;	⤎
-Rightwards Triple-dash Arrow	&rBarr;	&#10511;	⤏
-Rightwards Two-headed Triple-dash Arrow	&RBarr;	&#10512;	⤐
-Rightwards Arrow from Dotted Stem	&DDotrahd;	&#10513;	⤑
-Upwards Arrow to Bar	&UpArrowBar;	&#10514;	⤒
-Downwards Arrow to Bar	&DownArrowBar;	&#10515;	⤓
-Rightwards Two-headed Arrow with Tail	&Rarrtl;	&#10518;	⤖
-Leftwards Arrow-tail	&latail;	&#10521;	⤙
-Rightwards Arrow-tail	&ratail;	&#10522;	⤚
-Rightwards Double Arrow-tail	&rAtail;	&#10524;	⤜
-Leftwards Double Arrow-tail	&lAtail;	&#10523;	⤛
-Leftwards Arrow to Black Diamond	&larrfs;	&#10525;	⤝
-Rightwards Arrow to Black Diamond	&rarrfs;	&#10526;	⤞
-Leftwards Arrow from Bar to Black Diamond	&larrbfs;	&#10527;	⤟
-Rightwards Arrow from Bar to Black Diamond	&larrbfs;	&#10528;	⤠
-Northwest Arrow with Hook	&nwarhk;	&#10531;	⤣
-Northeast Arrow with Hook	&nearhk;	&#10532;	⤤
-Southwest Arrow with Hook	&swarhk;	&#10534;	⤦
-Southeast Arrow with Hook	&searhk;	&#10533;	⤥
-Northwest Arrow and Northeast Arrow	&nwnear;	&#10535;	⤧
-Northeast Arrow and Southeast Arrow	&nesear;	&#10536;	⤨
-Southeast Arrow and Southwest Arrow	&seswar;	&#105367	⤩
-Southeast Arrow and Northeast Arrow	&swnwar;	&#105368	⤪
-Rightwards Arrow Curving Downwards	&cudarrr;	&#10549	⤵
-Downwards Arrow Curving Leftwards	&ldca;	&#10550	⤶
-Downwards Arrow Curving Rightwards	&rdca;	&#10551	⤷
-Right-side Arc Clockwise Arrow	&cudarrl;	&#10552	⤸
-Left-side Arc Clockwise Arrow	&larrpl;	&#10553	⤹
-Top Arc Clockwise Arrow with Minus	&curarrm;	&#10556	⤼
-Top Arc Anticlockwise Arrow with Plus	&cularrp;	&#10557	⤽
-Rightwards Arrow with Plus	&rarrpl;	&#10565	⥅
-Left Right Arrow Through Circle	&harrcir;	&#10568	⥈
-Upwards Two-headed Arrow from Circle	&Uarrocir;	&#10569	⥈
-Left Barb Up Right Barb Down Harpoon Arrow	&lurdshar;	&#10570	⥊
-Left Barb Down Right Barb Up Harpoon Arrow	&ldrushar;	&#10571	⥋
-Up Barb Right Down Barb Right Harpoon Arrow	&RightUpDownVector;	&#10575	⥏
-Left Barb Down Right Barb Down Harpoon Arrow	&DownLeftRightVector;	&#10576	⥐
-Up Barb Left Down Barb Left Harpoon Arrow	&LeftUpDownVector;	&#10577	⥑
-Upwards Harpoon with Barb Left from Bar	&LeftUpTeeVector;	&#10592	⥠
-Downwards Harpoon with Barb Left from Bar	&LeftDownTeeVector;	&#10593	⥡
-Upwards Harpoon with Barb Left Beside Upwards Harpoon with Barb Right	&uHar;	&#10595	⥣
-Leftwards Harpoon with Barb Up Above Leftwards Harpoon with Barb Down	&lHar;	&#10595	⥢
-Rightwards Harpoon with Barb Up Above Rightwards Harpoon with Barb Down	&rHar;	&#10596	⥤
-Downwards Harpoon with Barb Left Beside Downwards Harpoon with Barb Right	&dHar;	&#10597	⥥
-Leftwards Harpoon with Barb Up Above Rightwards Harpoon with Barb Up	&luruhar;	&#10598	⥦
-Leftwards Harpoon with Barb Down Above Rightwards Harpoon with Barb Down	&ldrdhar;	&#10599	⥧
-Rightwards Harpoon with Barb Up Above Leftwards Harpoon with Barb Up	&ruluhar;	&#105600	𙲀
-Rightwards Harpoon with Barb Down Above Leftwards Harpoon with Barb Down	&rdldhar;	&#105601	𙲁
-Leftwards Harpoon with Barb Down Below Long Dash	&llhard;	&#105603	𙲃
-Leftwards Harpoon with Barb Down Above Long Dash	&lharul;	&#105602	𙲂
-Rightwards Harpoon with Barb Up Above Long Dash	&rharul;	&#105604	𙲄
-Rightwards Harpoon with Barb Down Below Long Dash	&lrhard;	&#105605	𙲅
-Upwards Harpoon with Barb Left Beside Downwards Harpoon with Barb Right	&udhar;	&#105606	𙲆
-Upwards Harpoon with Barb Left Beside Downwards Harpoon with Barb Right	&duhar;	&#105607	𙲇
-Left Fish Tail	&lfisht;	&#10620;	⥼
-Right Fish Tail	&rfisht;	&#10621;	⥽
-Up Fish Tail	&ufisht;	&#10622;	⥾
-Down Fish Tail	&dfisht;	&#10623;	⥿
+Long Rightward Arrow |	`&xrarr;` |	`&#10230;` |	`⟶` |
+Long Leftward Arrow |	`&xharr;` |	`&#10231;` |	`⟷` |
+Clockwise Open Circle Arrow |	`&orarr;` |	`&#8634;` |	`↺` |
+Anticlockwise Open Circle Arrow |	`&olarr;` |	`&#8635;` |	`↻` |
+Leftwards Harpoon With Barb Upwards |	`&lharu;` |	`&#8636;` |	`↼` |
+Leftwards Harpoon With Barb Downwards |	`&lhard;` |	`&#8637;` |	`↽` |
+Upwards Harpoon With Barb Rightwards |	`&uharr;` |	`&#8638;` |	`↾` |
+Upwards Harpoon With Barb Leftwards |	`&uharl;` |	`&#8639;` |	`↿` |
+Upwards Harpoon With Barb Leftwards |	`&uharl;` |	`&#8639;` |	`↿` |
+Rightwards Harpoon With Barb Upwards |	`&rharu;`	| `&#8640;` |	`⇀` |
+Rightwards Harpoon With Barb Downwards |	`&rhard;`	 | `&#8641;` |	`⇁` |
+Downwards Harpoon With Barb Rightwards |	`&rharr;`	 | `&#8642;` |	`⇂` |
+Downwards Harpoon With Barb Leftwards |	`&rharl;`	 | `&#8643;` |	`⇃` |
+Leftwards Harpoon Over Rightwards Harpoon |	`&lrhar;` | `&#8651;` |	`⇋` |
+Rightwards Harpoon Over Leftwards Harpoon |	`&rlhar;` | `&#8652;` |	`⇌` |
+Rightwards Arrow Over Leftwards Arrow |	`&rlarr;` |	`&#8644;` |	`⇄` |
+Upwards Arrow Beside Downwards Arrow |	`&udarr;` |	`&#8645;` |	`⇅` |
+Leftwards Arrow Over Rightwards Arrow |	`&lrarr;` |	`&#8646;` |	`⇆` |
+Double Leftwards Arrow |	`&llarr;` |	`&#8647;` |	`⇇` |
+Double Upwards Arrow |	`&uuarr;` |	`&#8648;` |	`⇈` |
+Double Rightwards Arrow |	`&rrarr;` |	`&#8649;` |	`⇉` |
+Double Downwards Arrow |	`&ddarr;`	 | `&#8650;` |	`⇊` |
+Leftwards Double Arrow |	`&lArr;` |	`&#8656;` |	`⇐` |
+Rightwards Double Arrow |	`&rArr;` |	`&#8658;` |	`⇑` |
+Upwards Double Arrow |	`&uArr;` |	`&#8657;` |	`⇑` |
+Downwards Double Arrow |	`&dArr;` |	`&#8659;` |	`⇓` |
+Leftwards Double Arrow with Stroke |	`&nlArr;` |	`&#8653;` |	`⇍` |
+Rightwards Double Arrow with Stroke |	`&nrArr;` |	`&#8655;` |	`⇏` |
+Left Right Double Arrow |	`&nhArr;` |	`&#8660;` |	`⇔` |
+Left Right Double Arrow with Stroke |	`&hArr;` |	`&#8654;` |	`⇎` |
+Up Down Double Arrow |	`&udarr;` |	`&#8661;` |	`⇕` |
+Down Up Double Arrow |	`&duarr;` |	`&#8693;` |	`⇵` |
+Northwest Double Arrow |	`&nwArr;` |	`&#8662;` |	`⇖` |
+Northeast Double Arrow |	`&neArr;` |	`&#8663;` |	`⇗` |
+Southeast Double Arrow |	`&seArr;` |	`&#8664;` |	`⇘` |
+Southwest Double Arrow |	`&swArr;` |	`&#8665;` |	`⇙` |
+Leftwards Triple Arrow |	`&lAarr;` |	`&#8666;` |	`⇚` |
+Rightwards Triple Arrow |	`&rAarr;` |	`&#8667;` |	`⇛` |
+Leftwards Squiggle Arrow |	`&ziglarr;` |	`&#8668;` |	`⇜` |
+Rightwards Squiggle Arrow	 | `&ziglrarr;` |	`&#8669;` |	`⇝` |
+Leftwards Arrow Bar |	`&larrb;` |	`&#8676;` |	`⇤` |
+Rightwards Arrow Bar |	`&rarrb;` |	`&#8677;` |	`⇥` |
+Left Right Open-headed Arrow |	`&hoarr;` |	`&#8703;` |	`⇿` |
+Leftwards Open-headed Arrow |	`&loarr;` |	`&#8701;` |	`⇿` |
+Rightwards Open-headed Arrow |	`&roarr;` |	`&#8702;` |	`⇾` |
+Left Right Arrow |	`&xharr;` |	`&#10231;` |	`⟷` |
+Leftwards Double Arrow |	`&xlArr;` |	`&#10232;` |	`⟸` |
+Rightwards Double Arrow	 | `&xrArr;` |	`&#10233;` |	`⟹` |
+Left Right Double Arrow |	`xhArr;` |	`&#10234;` |	`⟺` |
+Long Rightwards Squiggle Arrow |	`&dzigrarr;` |	`&#10239;` |	`⟿` |
+Long Rightwards Arrow from Bar |	`&xmap;` |	`&#10236;` |	`⟼` |
+Leftwards Arrow with Vertical Stroke Bar |	`&nvlArr;` |	`&#10498;` |	`⤂` |
+Rightwards Arrow with Vertical Stroke Bar |	`&nvaArr;` | `&#10499;` |	`⤃` |
+Left Right Double Arrow with Vertical Stroke Bar |	`&nvHarr;` |	`&#10500;` |	`⤄` |
+Rightwards Two-headed Arrow from Bar |	`&Map;` |	&#10501;` |	`⤅` |
+Leftwards Double-dash Arrow |	`&lbarr;` |	`&#10508;` |	`⤌` |
+Rightwards Double-dash Arrow |	`&rbarr;` |	`&#10509;` |	`⤍` |
+Leftwards Triple-dash Arrow |	`&lBarr;` |	`&#10510;` |	`⤎` |
+Rightwards Triple-dash Arrow |	`&rBarr;` |	`&#10511;`	`⤏` |
+Rightwards Two-headed Triple-dash Arrow |	`&RBarr;` |	`&#10512;` |	`⤐` |
+Rightwards Arrow from Dotted Stem |	`&DDotrahd;` |	`&#10513;` |	`⤑` |
+Upwards Arrow to Bar |	`&UpArrowBar;` |	`&#10514;` |	`⤒` |
+Downwards Arrow to Bar |	`&DownArrowBar;` |	`&#10515;` |	`⤓` |
+Rightwards Two-headed Arrow with Tail |	`&Rarrtl;` |	`&#10518;` |	`⤖` |
+Leftwards Arrow-tail |	`&latail;` |	`&#10521;` |	`⤙` |
+Rightwards Arrow-tail |	`&ratail;` |	`&#10522;` |	`⤚` |
+Rightwards Double Arrow-tail |	`&rAtail;` |	&#10524;` |	`⤜` |
+Leftwards Double Arrow-tail |	`&lAtail;` |	&#10523;` |	`⤛` |
+Leftwards Arrow to Black Diamond |	`&larrfs;` |	`&#10525;` |	`⤝` |
+Rightwards Arrow to Black Diamond	 | `&rarrfs;` |	`&#10526;` |	`⤞` |
+Leftwards Arrow from Bar to Black Diamond |	`&larrbfs;` |	`&#10527;` |	`⤟` |
+Rightwards Arrow from Bar to Black Diamond |	`&larrbfs;` |	`&#10528;` |	`⤠` |
+Northwest Arrow with Hook |	`&nwarhk;` |	`&#10531;` |	`⤣` |
+Northeast Arrow with Hook |	`&nearhk;` |	`&#10532;` |	`⤤` |
+Southwest Arrow with Hook |	`&swarhk;` |	`&#10534;` |	`⤦` |
+Southeast Arrow with Hook |	`&searhk;` |	`&#10533;` |	`⤥` |
+Northwest Arrow and Northeast Arrow |	`&nwnear;` |	`&#10535;` |	`⤧` |
+Northeast Arrow and Southeast Arrow |	`&nesear;` |	`&#10536;` |	`⤨` |
+Southeast Arrow and Southwest Arrow |	`&seswar;` |	`&#105367` |	`⤩` |
+Southeast Arrow and Northeast Arrow |	`&swnwar;` |	`&#105368` |	`⤪` |
+Rightwards Arrow Curving Downwards |	`&cudarrr;` |	`&#10549` |	`⤵` |
+Downwards Arrow Curving Leftwards  |	`&ldca;` |	&#10550 |	`⤶` |
+Downwards Arrow Curving Rightwards |	`&rdca;` |	&#10551 |	`⤷` |
+Right-side Arc Clockwise Arrow |	`&cudarrl;` |	&#10552 |	`⤸` |
+Left-side Arc Clockwise Arrow |	`&larrpl; |	`&#10553` |	`⤹` |
+Top Arc Clockwise Arrow with Minus |	`&curarrm;` |	`&#10556` |	`⤼` |
+Top Arc Anticlockwise Arrow with Plus |	`&cularrp;` |	`&#10557` |	`⤽` |
+Rightwards Arrow with Plus |	`&rarrpl;` |	`&#10565` |	`⥅` |
+Left Right Arrow Through Circle |	`&harrcir;` |	`&#10568` |	`⥈` |
+Upwards Two-headed Arrow from Circle |	`&Uarrocir;` |	`&#10569` |	`⥈` |
+Left Barb Up Right Barb Down Harpoon Arrow |	`&lurdshar;` |	`&#10570` |	`⥊` |
+Left Barb Down Right Barb Up Harpoon Arrow |	`&ldrushar;` |	`&#10571` |	`⥋` |
+Up Barb Right Down Barb Right Harpoon Arrow |	`&RightUpDownVector;`	&#10575 |	`⥏` |
+Left Barb Down Right Barb Down Harpoon Arrow |	`&DownLeftRightVector;`	&#10576 |	`⥐` |
+Up Barb Left Down Barb Left Harpoon Arrow |	`&LeftUpDownVector;` |	`&#10577` |	`⥑` |
+Upwards Harpoon with Barb Left from Bar	 | `&LeftUpTeeVector;` |	`&#10592` |	`⥠` |
+Downwards Harpoon with Barb Left from Bar |	`&LeftDownTeeVector;` |	`&#10593` |	`⥡` |
+Upwards Harpoon with Barb Left Beside Upwards Harpoon with Barb Right |	`&uHar; |	`&#10595` |	`⥣` |
+Leftwards Harpoon with Barb Up Above Leftwards Harpoon with Barb Down |	`&lHar; |	`&#10595` |	`⥢` |
+Rightwards Harpoon with Barb Up Above Rightwards Harpoon with Barb Down |	`&rHar;` |	&#10596 |	`⥤` |
+Downwards Harpoon with Barb Left Beside Downwards Harpoon with Barb Right |	`&dHar;` |	&#10597 |	`⥥` |
+Leftwards Harpoon with Barb Up Above Rightwards Harpoon with Barb Up |	`&luruhar;` |	&#10598 |	`⥦` |
+Leftwards Harpoon with Barb Down Above Rightwards Harpoon with Barb Down |	`&ldrdhar;` |	&#10599 |	⥧ |
+Rightwards Harpoon with Barb Up Above Leftwards Harpoon with Barb Up |	`&ruluhar;` |	&#105600 |	`𙲀` |
+Rightwards Harpoon with Barb Down Above Leftwards Harpoon with Barb Down |	`&rdldhar;` |	&#105601 |	`𙲁` |
+Leftwards Harpoon with Barb Down Below Long Dash |	`&llhard;` |	`&#105603` |	`𙲃` |
+Leftwards Harpoon with Barb Down Above Long Dash |	`&lharul;` |	`&#105602` |	`𙲂` |
+Rightwards Harpoon with Barb Up Above Long Dash |	`&rharul;` |	`&#105604` |	`𙲄` |
+Rightwards Harpoon with Barb Down Below Long Dash |	`&lrhard;` |	`&#105605` |	`𙲅` |
+Upwards Harpoon with Barb Left Beside Downwards Harpoon with Barb Right |	`&udhar;` |	`&#105606` |	`𙲆` |
+Upwards Harpoon with Barb Left Beside Downwards Harpoon with Barb Right |	`&duhar;` |	`&#105607` |	`𙲇` |
+Left Fish Tail |	`&lfisht;` |	`&#10620;` |	`⥼` |
+Right Fish Tail |	`&rfisht;` |	`&#10621;` |	`⥽` |
+Up Fish Tail |	`&ufisht;` |	`&#10622;` |	`⥾` |
+Down Fish Tail |	`&dfisht;` |	`&#10623;` |	`⥿` |
 
 Greek Letters
 | <b>Name</b> |	<b>Entity</b> |<b>HTML Code</b> | <b>Resulting Symbol</b> |
 |-------------|---------------|-----------------|-------------------------|
-Alpha	&Alpha;	&#913;	Α
-Beta	&Beta;	&#914;	Β
-Gamma	&Gamma;	&#915;	Γ
-Delta	&Delta;	&#916;	Δ
-Epsilon	&Epsilon;	&#917;	Ε
-Zeta	&Zeta;	&#918;	Ζ
-Eta	&Eta;	&#919;	Η
-Theta	&Theta;	&#920;	Θ
-Iota	&Iota;	&#921;	Ι
-Kappa	&Kappa;	&#922;	Κ
-Lambda	&Lambda;	&#923;	Λ
-Mu	&Mu;	&#924;	Μ
-Nu	&Nu;	&#925;	Ν
-xi	&Xi;	&#926;	Ξ
-Omicron	&Omicron;	&#927;	Ο
-Pi	&Pi;	&#928;	Π
-Rho	&Rho;	&#929;	Ρ
-Sigma	&Sigma;	&#931;	Σ
-Tau	&Tau;	&#932;	Τ
-Upsilon	&Upsilon;	&#933;	Υ
-Phi	&Phi;	&#934;	Φ
-Chi	&Chi;	&#935;	Χ
-Psi	&Psi;	&#936;	Ψ
-Omega	&Omega;	&#937;	Ω
-Small Letter Alpha	&alpha;	&#945;	α
-Small Letter Beta	&beta;	&#946;	β
-Small Letter Gamma	&gamma;	&#947;	γ
-Small Letter Delta	&delta;	&#948;	δ
-Small Letter Epsilon	&epsilon;	&#949;	ε
-Small Letter Zeta	&zeta;	&#950;	ζ
-Small Letter Eta	&eta;	&#951;	η
-Small Letter Theta	&theta;	&#952;	θ
-Small Letter Iota	&iota;	&#953;	ι
-Small Letter Kappa	&kappa;	&#954;	κ
-Small Letter Lambda	&lambda;	&#955;	λ
-Small Letter Mu	&mu;	&#956;	μ
-Small Letter Nu	&nu;	&#957;	ν
-Small Letter Xi	&xi;	&#958;	ξ
-Small Letter Omicron	&omicron;	&#959;	ο
-Small Letter Pi	&pi;	&#960;	π
-Small Letter Rho	&rho;	&#961;	ρ
-Small Letter Sigma	&sigmaf;	&#962;	ς
-Small Letter Sigma	&sigmaf;	&#962;	ς
-Small Letter Sigma	&sigma;	&#963;	σ
-Small Letter Tau	&tau;	&#964;	τ
-Small Letter Upsilon	&upsilon;	&#965;	υ
-Small Letter Phi	&phi;	&#966;	φ
-Small Letter Chi	&chi;	&#967;	χ
-Small Letter Psi	&psi;	&#968;	ψ
-Small Letter Omega	&omega;	&#969;	ω
+Alpha |	`&Alpha;` |	`&#913;` |	`Α` |
+Beta |	`&Beta;` |	`&#914;` |	`Β` |
+Gamma |	`&Gamma;` |	`&#915;` |	`Γ` |
+Delta |	`&Delta;` |	`&#916;` |	`Δ` |
+Epsilon |	`&Epsilon;` |	`&#917;` |	`Ε` |
+Zeta |	`&Zeta;` |	`&#918;` |	`Ζ` |
+Eta |	`&Eta;` |	`&#919;` |	`Η` |
+Theta |	`&Theta;` |	`&#920;` |	`Θ` |
+Iota |	`&Iota;` |	`&#921;` |	`Ι` |
+Kappa	 | `&Kappa;` |	`&#922;` |	`Κ` |
+Lambda |	`&Lambda;` |	`&#923;` |	`Λ` |
+Mu |	`&Mu;` |	`&#924;` |	`Μ` |
+Nu	 | `&Nu;` |	`&#925;` |	`Ν` |
+xi |	`&Xi;` | `&#926;` |	`Ξ` |
+Omicron |	`&Omicron;` |	`&#927;` |	`Ο` |
+Pi |	`&Pi;` |	`&#928;` |	`Π` |
+Rho |	`&Rho;` |	`&#929;` |	`Ρ` |
+Sigma |	`&Sigma;`	 | `&#931;` |	`Σ` |
+Tau |	`&Tau;` |	`&#932;` |	`Τ` |
+Upsilon |	`&Upsilon;` |	`&#933;` |	`Υ` |
+Phi |	`&Phi; |	`&#934;` |	`Φ` |
+Chi |	`&Chi; |	`&#935;` |	`Χ` |
+Psi |	`&Psi; |	`&#936;` |	`Ψ` |
+Omega |	`&Omega; |	`&#937;` |	`Ω` |
+Small Letter Alpha |	`&alpha;` |	`&#945;` |	`α` |
+Small Letter Beta |	&beta; |	`&#946;` |	`β` |
+Small Letter Gamma |	`&gamma;` |	`&#947;` |	`γ` |
+Small Letter Delta |	`&delta;` |	`&#948;` |	`δ` |
+Small Letter Epsilon |	`&epsilon;` |	`&#949; |	`ε` |
+Small Letter Zeta |	`&zeta;` |	`&#950;` |	`ζ` |
+Small Letter Eta |	`&eta;` |	`&#951;` |	`η` |
+Small Letter Theta |	`&theta;` |	`&#952;` |	`θ` |
+Small Letter Iota |	`&iota;` |	`&#953;` |	`ι` |
+Small Letter Kappa |	`&kappa;` |	`&#954;` |	`κ` |
+Small Letter Lambda |	`&lambda;` |	`&#955;` |	`λ` |
+Small Letter Mu |	`&mu;` |	`&#956; |	`μ` |
+Small Letter Nu |	`&nu;` |	`&#957; |	`ν` |
+Small Letter Xi |	`&xi;` |	`&#958; |	`ξ` |
+Small Letter Omicron |	`&omicron;` |	`&#959;` |	`ο` |
+Small Letter Pi |	`&pi;` |	`&#960;` |	`π` |
+Small Letter Rho |	`&rho;` |	`&#961;` |	`ρ` |
+Small Letter Sigma |	`&sigmaf;` |	`&#962;` |	`ς` |
+Small Letter Sigma |	`&sigmaf;` |	`&#962;` |	`ς` |
+Small Letter Sigma |	`&sigma;` |	`&#963;` |	`σ` |
+Small Letter Tau |	`&tau;` |	`&#964;` |	`τ` |
+Small Letter Upsilon |	`&upsilon;` |	`&#965;` |	`υ` |
+Small Letter Phi |	`&phi;` |	`&#966;` |	`φ` |
+Small Letter Chi |	`&chi;` |	`&#967;` |	`χ` |
+Small Letter Psi |	`&psi;` |	`&#968;` |	`ψ` |
+Small Letter Omega |	`&omega;` |	`&#969;` |	`ω` |
 
 Latin Letters
 | <b>Name</b> |	<b>Entity</b> |<b>HTML Code</b> | <b>Resulting Symbol</b> |
