@@ -433,9 +433,9 @@ Small Letter Theta |	`&theta;` |	`&#952;` |	`θ` |
 Small Letter Iota |	`&iota;` |	`&#953;` |	`ι` |
 Small Letter Kappa |	`&kappa;` |	`&#954;` |	`κ` |
 Small Letter Lambda |	`&lambda;` |	`&#955;` |	`λ` |
-Small Letter Mu |	`&mu;` |	`&#956; |	`μ` |
-Small Letter Nu |	`&nu;` |	`&#957; |	`ν` |
-Small Letter Xi |	`&xi;` |	`&#958; |	`ξ` |
+Small Letter Mu |	`&mu;` |	`&#956;` |	`μ` |
+Small Letter Nu |	`&nu;` |	`&#957;` |	`ν` |
+Small Letter Xi |	`&xi;` |	`&#958;` |	`ξ` |
 Small Letter Omicron |	`&omicron;` |	`&#959;` |	`ο` |
 Small Letter Pi |	`&pi;` |	`&#960;` |	`π` |
 Small Letter Rho |	`&rho;` |	`&#961;` |	`ρ` |
@@ -489,30 +489,30 @@ Small Letter a with Circumflex |	`&acirc;` |	`&#226;` |	`â` |
 Small Letter a with Tilde |	`&atilde;` |	`&#227;` |	`ã` |
 Small Letter a with Diaeresis |	`&auml;` |	`&#228;` |	`ä`
 Small Letter a with Ring Above |	`&aring;` |	`&#229;` |	`å`
-Small Letter c with Cedilla |	&ccedil;	&#231;	ç
-Small Letter e with Grave |	&egrave;	&#232;	è
-Small Letter e with Acute |	&eacute;	&#233;	é
-Small Letter e with Circumflex	&ecirc;	&#234;	ê
-Small Letter e with Diaeresis	&euml;	&#235;	ë
-Small Letter i with Grave	&igrave;	&#236;	ì
-Small Letter i with Acute	&iacute;	&#237;	í
-Small Letter i with Circumflex	&icirc;	&#238;	î
-Small Letter i with Diaeresis	&iuml;	&#239;	ï
-Small Letter Eth	&ieth;	&#240;	ð
-Small Letter n With Tilde	&ntilde;	&#241;	ñ
-Small Letter o With Grave	&ograve;	&#242;	ò
-Small Letter o With Acute	&oacute;	&#243;	ó
-Small Letter o With Circumflex	&ocirc;	&#244;	ô
-Small Letter o With Tilde	&otilde;	&#245;	õ
-Small Letter o With Diaeresis	&ouml;	&#246;	ö
-Small Letter o With Slash	&oslash;	&#248;	ø
-Small Letter u With Grave	&ugrave;	&#249;	ù
-Small Letter u With Acute	&uacute;	&#250;	ú
-Small Letter u With Circumflex	&ucirc;	&#251;	û
-Small Letter u With Diaeresis	&uuml;	&#252;	ü
-Small Letter y With Acute	&yacute;	&#253;	ý
-Small Letter y With Diaersis	&yuml;	&#255;	ÿ
-Small Letter Thorn	&thorn;	&#254;	þ
+Small Letter c with Cedilla |	`&ccedil;` |	`&#231;` |	`ç` |
+Small Letter e with Grave |	`&egrave;` |	`&#232;` |	`è` |
+Small Letter e with Acute |	`&eacute;` |	`&#233;` |	`é` |
+Small Letter e with Circumflex |	`&ecirc; |	`&#234;` |	`ê` |
+Small Letter e with Diaeresis |	`&euml;` |	`&#235;` |	`ë` |
+Small Letter i with Grave |	`&igrave;` |	`&#236;` |	`ì` |
+Small Letter i with Acute |	`&iacute;` |	`&#237;` |	`í` |
+Small Letter i with Circumflex |	`&icirc;` |	`&#238;` |	`î` |
+Small Letter i with Diaeresis |	`&iuml;` | `&#239;` |	`ï` |
+Small Letter Eth |	`&ieth;` |	`&#240;` |	`ð` |
+Small Letter n With Tilde |	`&ntilde;` |	`&#241;` |	`ñ` |
+Small Letter o With Grave |	`&ograve;` |	`&#242;` |	`ò` |
+Small Letter o With Acute |	`&oacute;` |	`&#243;` |	`ó` |
+Small Letter o With Circumflex |	`&ocirc;` |	`&#244;` |	`ô` |
+Small Letter o With Tilde |	`&otilde;` |	`&#245;` |	`õ` |
+Small Letter o With Diaeresis |	`&ouml;` |	`&#246;` |	`ö` |
+Small Letter o With Slash |	`&oslash;` |	`&#248;` |	`ø` |
+Small Letter u With Grave |	`&ugrave;` |	`&#249;` |	`ù` |
+Small Letter u With Acute |	`&uacute;` |	`&#250;` |	`ú` |
+Small Letter u With Circumflex |	`&ucirc;` |	`&#251;` |	`û` |
+Small Letter u With Diaeresis |	`&uuml;` |	`&#252;` |	`ü` |
+Small Letter y With Acute |	`&yacute;` |	`&#253;` |	`ý` |
+Small Letter y With Diaersis |	`&yuml;` |	`&#255;` |	`ÿ` |
+Small Letter Thorn |	&thorn; |	&#254; |	þ |
 Letter with Macron	&Amacr;	&#256;	Ā
 Small Letter a with Macron	&amacr;	&#257;	ā
 Letter A with Breve	&Abreve;	&#258;	Ă
