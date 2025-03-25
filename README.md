@@ -137,7 +137,7 @@ HTML code for that entity.
 | Circled Plus |	`&oplus;` |	`&#8853;` |	`⊕` |
 | Circled Minus |	`&ominus;` |	`&#8854;` |	`⊖` |
 | Circled Times |	`&otimes;` |	`&#8855;` |	`⊗` |
-| Circled Division |	`&osol;` |	&#8856;` |	`⊘` |
+| Circled Division |	`&osol;` |	`&#8856;` |	`⊘` |
 | Circled Dot |	`&odot;` |	`&#8857;` |	`⊙` |
 | Circled Ring |	`&ocir;` |	`&#8858;` |	`⊚` |
 | Circled Asterisk |	`&oast;` |	`&#8859;` |	`⊛` |
@@ -333,7 +333,7 @@ Long Rightwards Arrow from Bar |	`&xmap;` |	`&#10236;` |	`⟼` |
 Leftwards Arrow with Vertical Stroke Bar |	`&nvlArr;` |	`&#10498;` |	`⤂` |
 Rightwards Arrow with Vertical Stroke Bar |	`&nvaArr;` | `&#10499;` |	`⤃` |
 Left Right Double Arrow with Vertical Stroke Bar |	`&nvHarr;` |	`&#10500;` |	`⤄` |
-Rightwards Two-headed Arrow from Bar |	`&Map;` |	&#10501;` |	`⤅` |
+Rightwards Two-headed Arrow from Bar |	`&Map;` |	`&#10501;` |	`⤅` |
 Leftwards Double-dash Arrow |	`&lbarr;` |	`&#10508;` |	`⤌` |
 Rightwards Double-dash Arrow |	`&rbarr;` |	`&#10509;` |	`⤍` |
 Leftwards Triple-dash Arrow |	`&lBarr;` |	`&#10510;` |	`⤎` |
@@ -363,7 +363,7 @@ Rightwards Arrow Curving Downwards |	`&cudarrr;` |	`&#10549` |	`⤵` |
 Downwards Arrow Curving Leftwards  |	`&ldca;` |	`&#10550` |	`⤶` |
 Downwards Arrow Curving Rightwards |	`&rdca;` |	`&#10551` |	`⤷` |
 Right-side Arc Clockwise Arrow |	`&cudarrl;` |	`&#10552` |	`⤸` |
-Left-side Arc Clockwise Arrow |	`&larrpl; |	`&#10553` |	`⤹` |
+Left-side Arc Clockwise Arrow |	`&larrpl;` |	`&#10553` |	`⤹` |
 Top Arc Clockwise Arrow with Minus |	`&curarrm;` |	`&#10556` |	`⤼` |
 Top Arc Anticlockwise Arrow with Plus |	`&cularrp;` |	`&#10557` |	`⤽` |
 Rightwards Arrow with Plus |	`&rarrpl;` |	`&#10565` |	`⥅` |
@@ -418,12 +418,12 @@ Rho |	`&Rho;` |	`&#929;` |	`Ρ` |
 Sigma |	`&Sigma;`	 | `&#931;` |	`Σ` |
 Tau |	`&Tau;` |	`&#932;` |	`Τ` |
 Upsilon |	`&Upsilon;` |	`&#933;` |	`Υ` |
-Phi |	`&Phi; |	`&#934;` |	`Φ` |
-Chi |	`&Chi; |	`&#935;` |	`Χ` |
-Psi |	`&Psi; |	`&#936;` |	`Ψ` |
-Omega |	`&Omega; |	`&#937;` |	`Ω` |
+Phi |	`&Phi;` |	`&#934;` |	`Φ` |
+Chi |	`&Chi;` |	`&#935;` |	`Χ` |
+Psi |	`&Psi;` |	`&#936;` |	`Ψ` |
+Omega |	`&Omega;` |	`&#937;` |	`Ω` |
 Small Letter Alpha |	`&alpha;` |	`&#945;` |	`α` |
-Small Letter Beta |	&beta; |	`&#946;` |	`β` |
+Small Letter Beta |	`&beta;` |	`&#946;` |	`β` |
 Small Letter Gamma |	`&gamma;` |	`&#947;` |	`γ` |
 Small Letter Delta |	`&delta;` |	`&#948;` |	`δ` |
 Small Letter Epsilon |	`&epsilon;` |	`&#949;` |	`ε` |
