@@ -492,7 +492,7 @@ Small Letter a with Ring Above |	`&aring;` |	`&#229;` |	`å`
 Small Letter c with Cedilla |	`&ccedil;` |	`&#231;` |	`ç` |
 Small Letter e with Grave |	`&egrave;` |	`&#232;` |	`è` |
 Small Letter e with Acute |	`&eacute;` |	`&#233;` |	`é` |
-Small Letter e with Circumflex |	`&ecirc; |	`&#234;` |	`ê` |
+Small Letter e with Circumflex |	`&ecirc;` |	`&#234;` |	`ê` |
 Small Letter e with Diaeresis |	`&euml;` |	`&#235;` |	`ë` |
 Small Letter i with Grave |	`&igrave;` |	`&#236;` |	`ì` |
 Small Letter i with Acute |	`&iacute;` |	`&#237;` |	`í` |
@@ -512,8 +512,8 @@ Small Letter u With Circumflex |	`&ucirc;` |	`&#251;` |	`û` |
 Small Letter u With Diaeresis |	`&uuml;` |	`&#252;` |	`ü` |
 Small Letter y With Acute |	`&yacute;` |	`&#253;` |	`ý` |
 Small Letter y With Diaersis |	`&yuml;` |	`&#255;` |	`ÿ` |
-Small Letter Thorn |	`&thorn;` |	&#254; |	`þ` |
-Letter with Macron |	`&Amacr;` |	&#256; |	`Ā` |
+Small Letter Thorn |	`&thorn;` |	`&#254;` |	`þ` |
+Letter with Macron |	`&Amacr;` |	`&#256;` |	`Ā` |
 Small Letter a with Macron |	`&amacr;` |	`&#257;` |	`ā` |
 Letter A with Breve |	`&Abreve;` |	`&#258;` |	`Ă` |
 Small Letter a with Breve |	`&abreve;` |	`&#259;` |	`ă` |
@@ -531,7 +531,7 @@ Letter D with Caron |	`&Dcaron;` |	`&#270;` |	`Ď` |
 Small Letter d with Cacron |	`&dcaron;` |	`&#271;` |	`ď` |
 Letter D with Stroke |	`&Dstroke;` |	`&#272;` |	`Đ` |
 Small Letter d with Stroke |	`&dstroke;` |	`&#273;` |	`đ` |
-Letter E with Macron |	`&Emacr;`	 | `&#274; |	`Ē` |
+Letter E with Macron |	`&Emacr;`	 | `&#274;` |	`Ē` |
 Small Letter e with Macron |	`&emacr;` |	`&#275;` |	`ē` |
 Letter E with Dot |	`&Edot;` |	`&#278;` |	`Ė` |
 Small Letter e with Dot |	`&edot;` |	`&#279;` |	`ė` |
@@ -546,7 +546,7 @@ Small Letter g with Breve |	`&gbreve;` |	`&#287;` |	`ğ` |
 Letter G with Dot |	`&Gdot;` |	`&#288;` |	`Ġ` |
 Small Letter g with Dot |	`&gdot;` |	`&#289;` |	`ġ` |
 Letter G with Cedilla |	`&Gcedil;` |	`&#290;` |	`Ģ` |
-Letter H with Circumflex |	`&Hcirc;` |	&#292; |	`Ĥ` |
+Letter H with Circumflex |	`&Hcirc;` |	`&#292;` |	`Ĥ` |
 Small Letter h with Circumflex |	`&hcirc;` |	`&#293;` |	`ĥ` |
 Letter H with Stroke |	`&Hstrok;` |	`&#294;` |	`Ħ` |
 Small Letter h with Stroke |	`&hstrok;` |	`&#295;` |	`ħ` |
@@ -587,8 +587,8 @@ Small Letter o with Macron |	`&omacr;` |	`&#333;` |	`ō` |
 Letter O with Double Acute |	`&Odblac;` |	`&#336;` |	`Ő` |
 Small Letter o with Double Acute |	`&odblac;` |	`&#337;` |	`ő` |
 Letter Ligature Oe |	`&OElig;` |	`&#338;` |	`Œ` |
-Small Letter Ligature oe |	`&oelig; |	`&#339;` |	`œ` |
-Letter R with Acute |	`&Racute; |	`&#340;` |	`Ŕ` |
+Small Letter Ligature oe |	`&oelig;` |	`&#339;` |	`œ` |
+Letter R with Acute |	`&Racute;` |	`&#340;` |	`Ŕ` |
 Small Letter r with Acute |	`&racute;` |	`&#341;` | `ŕ` |
 Letter R with Cedilla |	`&Rcedil;` |	`&#342;` |	`Ŗ` |
 Small Letter r with Cedilla |	`&rcedil;` |	`&#343;` |	`ŗ` |
