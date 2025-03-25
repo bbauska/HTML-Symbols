@@ -557,7 +557,7 @@ Small Letter i with Macron |	`&imacr;` |	`&#299;` |	`ī` |
 Letter I with Ogonek |	`&Iogon;` |	`&#302;` |	`Į` |
 Small Letter i with Ogonek |	`&iogon;` |	`&#303;` |	`į` |
 Letter I with Dot |	`&Idot;` |	`&#304;` |	`İ` |
-Dotless Small Letter	`&imath;`	 |`&#305;` |	`ı` |
+Dotless Small Letter |	`&imath;`	 | `&#305;` |	`ı` |
 Letter Ligature Ij |	`&Ijlig;` |	`&#306;` |	`Ĳ` |
 Small Letter Ligature Ij |	`&ijlig;` |	`&#307;` |	`ĳ` |
 Letter J with Circumflex | `&Jcirc;` |	`&#308;` |	`Ĵ` |
@@ -597,13 +597,13 @@ Small Letter r with Caron |	`&rcaron;` |	`&#345;` |	`ř` |
 Letter S with Acute |	`&Sacute;` |	`&#346;` |	`Ś` |
 Small Letter s with Acute |	`&sacute;` |	`&#347;` |	`ś` |
 Letter S with Circumflex |	`&Scirc;` |	`&#348;` |	`Ŝ` |
-Small Letter s with Circumflex |	`&scirc; |	`&#349;` |	`ŝ` |
+Small Letter s with Circumflex |	`&scirc;` |	`&#349;` |	`ŝ` |
 Letter S with Cedilla |	`&Scedil;` |	`&#350;` |	`Ş` |
 Small Letter s with Cedilla |	`&scedil;` |	`&#351;` |	`ş` |
 Letter S with Caron |	`&Scaron;` |	`&#352;` |	`Š` |
 Small Letter s with Caron |	`&Scedilla;` |	`&#353;` |	`š` |
-Letter T with Cedilla |	`&Tcedilla;` |	&#354;` |	`Ţ` |
-Small Letter t with Cedilla	 | `&tcedilla;` |	&#355;` |	`ţ` |
+Letter T with Cedilla |	`&Tcedilla;` |	`&#354;` |	`Ţ` |
+Small Letter t with Cedilla	 | `&tcedilla;` |	`&#355;` |	`ţ` |
 Letter T with Caron |	`&Tcaron;` |	`&#356;` |	`Ť` |
 Small Letter t with Caron |	`&tcaron;` |	`&#357;` |	`ť` |
 Letter T with Stroke |	`&Tstrok;` |	`&#358;` |	`Ŧ` |
@@ -627,7 +627,7 @@ Small Letter y with Circumflex |	`&ycirc;` |	`&#375;` |	`ŷ` |
 Letter Y with Double Dots |	`&Yuml;` |	`&#376;` |	`Ÿ` |
 Small Letter z with Acute |	`&zacute;` |	`&#378;` |	`ź` |
 Letter Z with Dot |	`&Zdot;` |	`&#379;` |	`Ż` |
-Small Letter z with Dot |	`&zdot;` |	`&#380; |	`ż` |
+Small Letter z with Dot |	`&zdot;` |	`&#380;` |	`ż` |
 Letter Z with Caron |	`&Zcaron;` |	`&#381;` |	`Ž` |
 Small Letter z with Caron |	`&zcaron;` |	`&#382;`	 | `ž` |
 Small Letter z with Caron |	`&zcaron;` |	`&#382;` |	`ž` |
