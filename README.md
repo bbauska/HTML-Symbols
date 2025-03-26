@@ -632,7 +632,7 @@ Letter Z with Caron |	`&Zcaron;` |	`&#381;` |	`Ž` |
 Small Letter z with Caron |	`&zcaron;` |	`&#382;`	 | `ž` |
 Small Letter z with Caron |	`&zcaron;` |	`&#382;` |	`ž` |
 
-<h2>More HTML Symbols</h2>
+<h2>EMOJIS - More HTML Symbols</h2>
 People
 
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
